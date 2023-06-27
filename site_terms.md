@@ -46,7 +46,7 @@
 * 이용자 보호조치 절차 진행 중 해당 이용자의 연령 추정이 불가능하여 확인 절차를 진행
 * 캐시 등 콘텐츠 전송을 위한 임시 보유
 
-본 인스턴스의 원활한 운영을 위해 수집된 개인정보가 국외로 이전될 수 있습니다. 자세한 내용은 [이 링크](https://raw.githubusercontent.com/catswords-social/policy/main/hosting_locations.md)를 참고하여 주시기 바랍니다.
+본 인스턴스의 원활한 운영을 위해 수집된 개인정보가 국외로 이전될 수 있습니다. 자세한 내용은 [이 링크](https://github.com/catswords-social/policy/blob/main/hosting_locations.md)를 참고하여 주시기 바랍니다.
 
 본 인스턴스는 DNT(Do Not Track, 개인정보 추적 방지) 또는 이와 유사한 기술을 활용하여 정보를 탐색하고자 하는 이용자를 기술적으로 지원하고 있습니다. 본 인스턴스는 알려진 DNT 기술 구현 사례 중 Tor/Onion 기반의 오버레이 네트워크를 지원하고 있으며 접속을 위해서는 [이 링크](http://alagqg2wvxgmgoti27fn22pndmanrdl3duullv5gqpe76l66tsuplmad.onion)를 참고하여 주시기 바랍니다. 단, DNT 기술은 쿠키 또는 이와 유사한 기술을 활용하는데 장애를 유발할 수 있으므로, DNT 기술을 사용했을 때 본 인스턴스의 정상적인 작동을 보장하지 않습니다.
 
