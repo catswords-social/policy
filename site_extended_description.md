@@ -1,3 +1,5 @@
+[English version available](site_extended_description_EN.md)
+
 캐츠워즈 소셜(catswords.social)은 누구든지 자유롭게 가입하고 활동할 수 있는 마스토돈 서버(이하 '인스턴스')입니다.
 
 캐츠워즈 소셜 이용 중 문제 발생 시 아래 긴급 연락처를 살펴봐주시기 바랍니다.
