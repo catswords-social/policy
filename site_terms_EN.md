@@ -69,4 +69,4 @@ If it is believed that this instance does not sufficiently protect the personal 
 
 By signing up for this instance, it is considered that you agree to this privacy policy.
 
-This privacy policy is effective from June 28, 2023, 01:00 UTC+9 (KST).
+This privacy policy is effective from June 28, 2023, 01:00 UTC+9 (KST). Translated by [ChatGPT](https://chat.openai.com/)
