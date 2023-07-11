@@ -1,3 +1,5 @@
+[English version available](site_terms_EN.md)
+
 캐츠워즈 소셜(이하 '인스턴스') 이용 중 문제 발생 시 아래 긴급 연락처를 살펴봐주시기 바랍니다.
 
 * 전자우편: abuse@catswords.net
