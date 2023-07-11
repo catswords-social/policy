@@ -13,7 +13,7 @@ Here is the information about the responsible party and legal notices:
 * Personal Information Protection Manager: Namhyeon Go (+82-070-7735-3586, gnh1201@gmail.com)
 * Host Server Location: KT Cheonan CDC, 89-28 Daheung 2-gil, Seongnam-myeon, Dongnam-gu, Cheonan-si, Chungcheongnam-do, 31248, South Korea
 
-Please refer to this link for the Privacy Policy.
+Please refer to [this link](site_terms.md) for the Privacy Policy.
 
 Catswords Social implements user protection measures. Procedures for user protection can be initiated in all cases where there is a potential dispute. The user protection measures are carried out as follows:
 
