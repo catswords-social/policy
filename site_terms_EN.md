@@ -5,11 +5,11 @@ If you encounter any issues while using Catswords Social (hereinafter referred t
 * Fax: +82-032-232-7628
 * The instance operates a self-reporting feature.
 
-Here is the contact information for the responsible parties and legal disclosures:
+Here is the information about the responsible party and legal notices:
 
-* Operator: Catswords Research (Representative: Namhyeon Go, Business Registration Number: 381-31-00499, Online Sales Number: 2018-Incheon Namdong-gu-0259, Registered Address: Guwol-dong, Namdong-gu, Incheon)
-* Personal Information Protection Manager: Namhyeon Go (+82-070-7735-3586)
-* Hosting Server Location: (31248) 89-28, Daeheung 2-gil, Seongnam-myeon, Dongnam-gu, Cheonan-si, Chungcheongnam-do (Daeheung-ri 266-5), KT Cheonan CDC
+* Operator: Catswords Research (Representative: Namhyeon Go, Business Registration Number: 381-31-00499, Online Sales Number: 2018-Incheon Namdong-gu-0259, Jurisdiction: Incheon, South Korea)
+* Personal Information Protection Manager: Namhyeon Go (+82-070-7735-3586, gnh1201@gmail.com)
+* Host Server Location: KT Cheonan CDC, 89-28 Daheung 2-gil, Seongnam-myeon, Dongnam-gu, Cheonan-si, Chungcheongnam-do, 31248, South Korea
 
 The following are the categories of personal information processed:
 
