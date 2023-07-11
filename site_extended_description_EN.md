@@ -56,4 +56,6 @@ In the event of a similar situation, the rights transfer of this instance takes 
 
 By joining this instance, it is considered that you agree to these rules.
 
-These rules will be effective from July 8, 2023, 23:00 UTC+9 (KST). Translated by [ChatGPT](https://chat.openai.com/)
+These rules will be effective from July 8, 2023, 23:00 UTC+9 (KST).
+
+TRANSLATION POWERED BY [CHATGPT](https://chat.openai.com/)
