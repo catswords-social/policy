@@ -1,3 +1,5 @@
+[Korean version available](site_terms.md)
+
 If you encounter any issues while using Catswords Social (hereinafter referred to as "the instance"), please refer to the emergency contact information provided below:
 
 * Email: abuse@catswords.net
