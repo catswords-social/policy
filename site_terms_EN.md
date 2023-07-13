@@ -7,7 +7,7 @@ If you encounter any issues while using Catswords Social (hereinafter referred t
 
 Here is the information about the responsible party and legal notices:
 
-* Operator: Catswords Research (Representative: Namhyeon Go, Business Registration Number: 381-31-00499, Online Sales Number: 2018-Incheon Namdong-gu-0259, Jurisdiction: Incheon, South Korea)
+* Operator: Catswords Research - Representative: Namhyeon Go, Business Registration Number: 381-31-00499, Mail-order-sales Registration Number: 2018-Incheon-Namdong-gu-0259, Jurisdiction: Incheon, Republic of Korea (South Korea)
 * Personal Information Protection Manager: Namhyeon Go (+82-070-7735-3586, gnh1201@gmail.com)
 * Host Server Location: KT Cheonan CDC, 89-28 Daheung 2-gil, Seongnam-myeon, Dongnam-gu, Cheonan-si, Chungcheongnam-do, Republic of Korea (South Korea, 31248)
 
@@ -28,9 +28,9 @@ The regulations regarding access to personal information are as follows: Catswor
 * Resolution of issues arising from Mastodon updates
 * Recovery operations due to the loss of equipment or data necessary for operation
 * Progression of user protection measures
-* Receipt of a request for personal information access submitted to the [Personal Information Portal](https://www.privacy.go.kr) operated by the Ministry of the Interior and Safety of South Korea
+* Receipt of a request for personal information access submitted to the [Personal Information Portal](https://www.privacy.go.kr) operated by the Ministry of the Interior and Safety of Republic of Korea
 * Verification of content due to a user claiming the "right to be forgotten" (RTBF). However, requests may be refused if no valid legal basis is provided, the user can delete the content themselves, the authorship of the user cannot be verified, access blocking or deletion is prohibited due to laws, regulations, orders, etc., the content falls under public interest, or if the content does not contain personal information.
-* Cooperation request related to CSAM (Child Sexual Abuse Material). However, the legal basis is prioritized based on South Korea's "Act on the Protection of Children and Juveniles against Sexual Abuse" (enforced on January 13, 2022). Even if the requester's nationality is not South Korean, the administrator may access personal information, report it to the relevant administrative or investigative agency in South Korea, and transfer the accessed materials.
+* Cooperation request related to CSAM (Child Sexual Abuse Material). However, the legal basis is prioritized based on Republic of Korea's "Act on the Protection of Children and Juveniles against Sexual Abuse" (enforced on January 13, 2022). Even if the requester's nationality is not Republic of Korean, the administrator may access personal information, report it to the relevant administrative or investigative agency in Republic of Korea, and transfer the accessed materials.
 
 According to relevant laws and regulations, personal information can be retained for a maximum of 5 years.
 
