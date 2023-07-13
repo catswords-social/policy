@@ -12,4 +12,4 @@
 | 캐시 등 콘텐츠 전송을 위한 임시 보유 [#](https://vultr.com/) | 이용 목적이 달성될 때 까지 | The Constant Company(미국)              | (33401, US) 319 Clematis Street - Suite 900, West Palm Beach, FL 33401                    |
 | 서버 성능 모니터링을 위한 임시 보유 [#](https://www.site24x7.com/) | 이용 목적이 달성될 때 까지 | Zoho Coperation(인도) | (603202, IN) Estancia IT Park, Plot no. 140, 151, GST Road, Vallancheri, Chengalpattu District, Tamil Nadu 603202 |
 
-일부 누락된 항목이 존재할 수 있으며 상세 내용이 필요하신 분은 공지된 긴급연락처를 통해 문의주시기 바랍니다.
+일부 누락된 항목이 존재할 수 있으며 상세 내용이 필요하신 분은 공지된 [긴급연락처](site_terms.md)를 통해 문의주시기 바랍니다.
