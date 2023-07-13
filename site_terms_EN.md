@@ -1,5 +1,7 @@
 [Korean version available](site_terms.md)
 
+[Status page available](https://catswordssocialstatus-1689258553522.site24x7statusiq.com/)
+
 If you encounter any issues while using Catswords Social (hereinafter referred to as "the instance"), please refer to the emergency contact information provided below:
 
 * Email: abuse@catswords.net
