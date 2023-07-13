@@ -1,3 +1,7 @@
+[Korean version available](site_extended_description.md)
+
+[Status page available](https://catswordssocialstatus-1689258553522.site24x7statusiq.com/)
+
 Catswords Social (catswords.social) is a Mastodon server, referred to as an "instance," where anyone can freely join and participate.
 
 If you encounter any issues while using Catswords Social, please take a look at the emergency contact information provided below:
