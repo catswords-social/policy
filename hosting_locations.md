@@ -10,6 +10,5 @@
 | 캐시 등 콘텐츠 전송을 위한 임시 보유 [#](https://www.google.com/) | 이용 목적이 달성될 때 까지 | Google(미국)              | (06236, KR) 서울특별시 강남구 테헤란로 152 (역삼동 737) 강남파이낸스센터 22층 구글코리아유한회사                   |
 | 캐시 등 콘텐츠 전송을 위한 임시 보유 [#](https://www.microsoft.com/) | 이용 목적이 달성될 때 까지 | Microsoft(미국)              | (03142, KR) 서울특별시 종로구 종로1길 50 (중학동 19) 더케이트윈타워 A동 11층 한국마이크로소프트유한회사                    |
 | 캐시 등 콘텐츠 전송을 위한 임시 보유 [#](https://vultr.com/) | 이용 목적이 달성될 때 까지 | The Constant Company(미국)              | (33401, US) 319 Clematis Street - Suite 900, West Palm Beach, FL 33401                    |
-| 서버 성능 모니터링을 위한 임시 보유 [#](https://www.site24x7.com/) | 이용 목적이 달성될 때 까지 | Zoho Coperation(인도) | (603202, IN) Estancia IT Park, Plot no. 140, 151, GST Road, Vallancheri, Chengalpattu District, Tamil Nadu 603202 |
 
 일부 누락된 항목이 존재할 수 있으며 상세 내용이 필요하신 분은 공지된 [긴급연락처](site_terms.md)를 통해 문의주시기 바랍니다.
