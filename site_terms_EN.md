@@ -50,7 +50,7 @@ Catswords Social does not sell data to third parties. Transfer of personal infor
 * Proceeding with user protection measures when it is not possible to estimate the age of the user.
 * Temporary retention for content transmission, such as cache.
 
-To ensure the smooth operation of this instance, collected personal information may be transferred overseas. For detailed information, please refer to [this link](https://github.com/catswords-social/policy/blob/main/hosting_locations.md).
+To ensure the smooth operation of this instance, collected personal information may be transferred overseas. For detailed information, please refer to [this link](hosting_locations.md).
 
 This instance supports the use of DNT (Do Not Track) or similar technologies to technically support users who wish to prevent the tracking of their information. This instance supports the Tor/Onion-based overlay network, which is one of the known implementations of DNT technology. To connect, please refer to [this link](http://alagqg2wvxgmgoti27fn22pndmanrdl3duullv5gqpe76l66tsuplmad.onion). However, please note that using DNT technology may interfere with the use of cookies or similar technologies, and the normal operation of this instance is not guaranteed when DNT technology is used.
 
