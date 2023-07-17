@@ -8,4 +8,6 @@
 | 캐시 등 콘텐츠 전송을 위한 임시 보유 [#](https://www.cloudflare.com/) | 이용 목적이 달성될 때 까지 | Cloudflare(미국)          | (06168, KR) 서울특별시 강남구 테헤란로 507 (삼성동) 8-113호 클라우드플레어코리아유한책임회사                       |
 | 캐시 등 콘텐츠 전송을 위한 임시 보유 [#](https://vultr.com/) | 이용 목적이 달성될 때 까지 | The Constant Company(미국)              | (33401, US) 319 Clematis Street - Suite 900, West Palm Beach, FL 33401                    |
 
+마지막 갱신: 2023-07-17 16:22 KST(UTC+9)
+
 일부 누락된 항목이 존재할 수 있으며 상세 내용이 필요하신 분은 공지된 [긴급연락처](site_terms.md)를 통해 문의주시기 바랍니다.
