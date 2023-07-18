@@ -1,3 +1,5 @@
+# 개인정보 정책
+
 [English version available](site_terms_EN.md)
 
 [Status page available](https://catswordssocialstatus-1689258553522.site24x7statusiq.com/)
