@@ -15,7 +15,8 @@ Here is the information about the responsible party and legal notices:
 
 * Operator: Catswords Research - Representative: Namhyeon Go, Business Registration Number: 381-31-00499, Mail-order-sales Registration Number: 2018-Incheon-Namdong-gu-0259, Jurisdiction: Incheon, Republic of Korea (South Korea)
 * Personal Information Protection Manager: Namhyeon Go (+82-070-7735-3586, gnh1201@gmail.com)
-* Host Server Location: KT Cheonan CDC, 89-28 Daheung 2-gil, Seongnam-myeon, Dongnam-gu, Cheonan-si, Chungcheongnam-do, Republic of Korea (South Korea, 31248)
+* Host Server Location: KT Cheonan CDC, 89-28 Daheung 2-gil, Seongnam-myeon, Dongnam-gu, Cheonan-si, Chungcheongnam-do, Republic of Korea (31248, South Korea)
+* Recipient's Address: Catswords Research, Mailbox 35-16, 502, 11, Seonsuchon-gongwon-ro 23beon-gil, Namdong-gu, Incheon, Republic of Korea (21582, South Korea)
 
 Please refer to [this link](site_terms.md) for the Privacy Policy.
 
@@ -60,6 +61,6 @@ In the event of a similar situation, the rights transfer of this instance takes 
 
 By joining this instance, it is considered that you agree to these rules.
 
-These rules will be effective from July 8, 2023, 23:00 UTC+9 (KST).
+These rules will be effective from July 31, 2023, 23:00 UTC+9 (KST).
 
 TRANSLATION POWERED BY [CHATGPT](https://chat.openai.com/)
