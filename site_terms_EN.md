@@ -78,4 +78,4 @@ By signing up for this instance, it is considered that you agree to this privacy
 
 This Privacy Policy will be effective from June 28, 2023, 01:00 UTC+9 (KST).
 
-TRANSLATION POWERED BY [CHATGPT](https://chat.openai.com/)
+TRANSLATION POWERED BY [CHATGPT](https://chat.openai.com/) AND CORRECTED BY ADMINISTRATOR
