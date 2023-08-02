@@ -63,4 +63,4 @@ By joining this instance, it is considered that you agree to these rules.
 
 These rules will be effective from July 31, 2023, 23:00 UTC+9 (KST).
 
-TRANSLATION POWERED BY [CHATGPT](https://chat.openai.com/)
+TRANSLATION POWERED BY [CHATGPT](https://chat.openai.com/) AND CORRECTED BY ADMINISTRATOR
