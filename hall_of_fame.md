@@ -2,3 +2,4 @@
 캐츠워즈 소셜 운영에 직간접적으로 도움을 주신 분들입니다.
 
 - [@puppygo@twingyeo.kr](https://twingyeo.kr/@puppygo)
+- 친애하는 연합우주 서버장님들과 참여자님들
