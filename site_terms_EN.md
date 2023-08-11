@@ -59,7 +59,10 @@ Catswords Social does not sell data to third parties. Transfer of personal infor
 
 To ensure the smooth operation of this instance, collected personal information may be transferred overseas. For detailed information, please refer to [this link](hosting_locations.md).
 
-This instance supports the use of DNT (Do Not Track) or similar technologies to technically support users who wish to prevent the tracking of their information. This instance supports the Tor/Onion-based overlay network, which is one of the known implementations of DNT technology. To connect, please refer to [this link](http://alagqg2wvxgmgoti27fn22pndmanrdl3duullv5gqpe76l66tsuplmad.onion). However, please note that using DNT technology may interfere with the use of cookies or similar technologies, and the normal operation of this instance is not guaranteed when DNT technology is used.
+This instance supports the use of DNT (Do Not Track) or similar technologies for users who wish to prevent personal information tracking. However, please note that DNT technology may potentially cause issues when utilizing cookies or similar technologies, and thus, the normal functioning of this instance cannot be guaranteed when DNT technology is employed. The known DNT technologies supported by this instance are as follows:
+
+- Tor/Onion: http://alagqg2wvxgmgoti27fn22pndmanrdl3duullv5gqpe76l66tsuplmad.onion
+- No-log policy endpoint: https://dnt.catswords.social (This endpoint does not record visitor IP or User Agent information.)
 
 The following measures are taken to protect the physical assets (servers, PCs, etc.) and electronic materials (software, databases, files, etc.) necessary for the operation of this instance:
 
@@ -80,6 +83,6 @@ If it is believed that this instance does not sufficiently protect the personal 
 
 By signing up for this instance, it is considered that you agree to this privacy policy.
 
-This Privacy Policy will be effective from June 28, 2023, 01:00 UTC+9 (KST).
+This Privacy Policy will be effective from August 12, 2023, at 01:33 UTC+9 (KST).
 
 TRANSLATION POWERED BY [CHATGPT](https://chat.openai.com/) AND CORRECTED BY ADMINISTRATOR
