@@ -59,10 +59,10 @@ Catswords Social does not sell data to third parties. Transfer of personal infor
 
 To ensure the smooth operation of this instance, collected personal information may be transferred overseas. For detailed information, please refer to [this link](hosting_locations.md).
 
-This instance supports the use of DNT (Do Not Track) or similar technologies for users who wish to prevent personal information tracking. However, please note that DNT technology may potentially cause issues when utilizing cookies or similar technologies, and thus, the normal functioning of this instance cannot be guaranteed when DNT technology is employed. The known DNT technologies supported by this instance are as follows:
+This instance technically supports users who wish to explore information using privacy-preserving techniques, including anti-tracking and similar technologies. However, please note that anti-tracking, which involves the use of cookies or similar technologies, may disrupt normal usage of this instance when enabled. The guaranteed normal operation of this instance is not ensured when anti-tracking is employed. The instance supports the following known anti-tracking methods:
 
 - Tor/Onion: http://alagqg2wvxgmgoti27fn22pndmanrdl3duullv5gqpe76l66tsuplmad.onion
-- No-log policy endpoint: https://dnt.catswords.social (This endpoint does not record visitor IP or User Agent information.)
+- Managed endpoint: https://one.catswords.social (Routes through a self-managed cloud server, not a CDN.)
 
 The following measures are taken to protect the physical assets (servers, PCs, etc.) and electronic materials (software, databases, files, etc.) necessary for the operation of this instance:
 
@@ -83,6 +83,6 @@ If it is believed that this instance does not sufficiently protect the personal 
 
 By signing up for this instance, it is considered that you agree to this privacy policy.
 
-This Privacy Policy will be effective from August 12, 2023, at 01:33 UTC+9 (KST).
+This Privacy Policy will be effective from August 24, 2023, at 18:00 UTC+9 (KST).
 
 TRANSLATION POWERED BY [CHATGPT](https://chat.openai.com/) AND CORRECTED BY ADMINISTRATOR
