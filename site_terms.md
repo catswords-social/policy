@@ -57,9 +57,10 @@
 
 본 인스턴스는 추적 방지 또는 이와 유사한 기술을 활용하여 정보를 탐색하고자 하는 이용자를 기술적으로 지원하고 있습니다. 단, 추적 방지는 쿠키 또는 이와 유사한 기술을 활용하는데 장애를 유발할 수 있으므로 추적 방지를 사용했을 때 본 인스턴스의 정상적 이용을 보장하지 않습니다. 본 인스턴스가 지원하는 알려진 추적 방지 방법은 다음과 같습니다.
 
-* Tor/Onion endpoint: http://alagqg2wvxgmgoti27fn22pndmanrdl3duullv5gqpe76l66tsuplmad.onion
-* Cloud endpoint - IBM Cloud: https://one.catswords.social
-* Cloud endpoint - Oracle Cloud: https://oci.catswords.social
+* http://alagqg2wvxgmgoti27fn22pndmanrdl3duullv5gqpe76l66tsuplmad.onion (Overlay network, Tor/Onion)
+* https://one.catswords.social (Cloud endpoint, IBM Cloud)
+* https://oci.catswords.social (Cloud endpoint, Oracle Cloud)
+* https://cna.catswords.social (Cloud endpoint, Yandex Cloud)
 
 본 인스턴스를 운영하기 위한 위한 물리적 자산(서버, PC 등) 및 전자적 형태의 무체물(소프트웨어, 데이터베이스, 파일 등)을 보호하기 위한 조치는 아래와 같이 이뤄지고 있습니다.
 
@@ -80,4 +81,4 @@
 
 본 인스턴스에 가입하는 경우 이 개인정보 정책에 동의하는 것으로 간주됩니다.
 
-이 개인정보 정책은 2023년 08월 28일 18:00 UTC+9(KST)부터 적용됩니다.
+이 개인정보 정책은 2023년 09월 13일 18:00 UTC+9(KST)부터 적용됩니다.
