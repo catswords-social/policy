@@ -15,19 +15,6 @@
 
 일부 누락된 항목이 존재할 수 있으며 상세 내용이 필요하신 분은 공지된 [긴급연락처](site_terms.md)를 통해 문의주시기 바랍니다.
 
-# 국외 서드파티 제품 및 서비스 목록
-국외 서드파티 제품 및 서비스 목록입니다. 본 항목은 법적 고지사항이 아닌 자체 고지사항입니다.
+업체 별 상세한 계약 사항은 [클라우드 서비스 이용 현황](cloudservices.md)을 참고해주시기 바랍니다.
 
-  * 클라우드플레어(Cloudflare)
-    * CDN(Content Delivery Network)
-    * DDoS mitigation
-    * Cloudflare R2(Object Storage)
-    * Zero Trust(Tunnel, WARP)
-  * 아이비엠(IBM)
-    * VPS(Virtual Server)
-    * IBM Log Analysis with LogDNA
-    * IBM Object Storage
-  * 오라클(Oracle)
-    * VPS(Virtual Server)
-
-국외 서드파티 제품 및 서비스 목록은 2023년 10월 17일 18:00 UTC+9(KST) 부터 적용됩니다.
+국외 서드파티 제품 및 서비스 목록은 2023년 10월 23일 18:00 UTC+9(KST) 부터 적용됩니다.
