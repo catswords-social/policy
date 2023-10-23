@@ -4,7 +4,7 @@
 
 |업체|이용서비스|연락처|
 |---|---|---|
-|KT클라우드|가상서버(VPS)|080-2580-005, ktcloud-voc@kt.com|
+|[KT클라우드](https://cloud.kt.com/)|가상서버(VPS)|080-2580-005, 080-950-0216 (FAX), ktcloud-voc@kt.com|
 |클라우드플레어(Cloudflare)|CDN(콘텐츠 전송 가속), DDoS(서비스 부하 공격) 방어, R2 스토리지, 제로 트러스트(Zero Trust) 터널, WARP|https://cloudflare.com|
 |아이비엠(IBM)|가상서버(VPS), IBM Log Analysis with LogDNA(로그수집), IBM Object Storage(스토리지)|https://cloud.ibm.com|
 |오라클(Oracle)|가상서버(VPS)|https://oracle.com|
