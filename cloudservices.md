@@ -10,6 +10,6 @@
 |오라클(Oracle)|가상서버(VPS)|https://oracle.com|
 |The Constant Company|가상서버(VPS)|https://www.constant.com/|
 
-국외 업체의 연락처는 [개인정보국외이전](hosting_locations) 고지사항에서 확인하실 수 있습니다.
+국외 업체의 연락처는 [개인정보국외이전](hosting_locations.md) 고지사항에서 확인하실 수 있습니다.
 
 본 클라우드 서비스 이용 현황은 2023년 10월 23일 18:00 UTC+9(KST) 부터 적용됩니다.
