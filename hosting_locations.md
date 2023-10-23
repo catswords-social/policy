@@ -8,7 +8,7 @@
 | 이용자 ID, 접속 IP     | 서비스 이용 시점에서 네트워크를 통한 전송 | 캐시(Cache) 등 콘텐츠 전송을 위한 임시 보유 | 이용 목적이 달성될 때 까지 | Cloudflare(미국) [#](https://www.cloudflare.com/)           | (06168, KR) 서울특별시 강남구 테헤란로 507 (삼성동 157-37) 8-113호 클라우드플레어코리아유한책임회사 |
 | 이용자 ID, 접속 IP     | 서비스 이용 시점에서 네트워크를 통한 전송 | 캐시(Cache) 등 콘텐츠 전송을 위한 임시 보유 | 이용 목적이 달성될 때 까지 | IBM(미국) [#](https://www.ibm.com/kr-ko/cloud) | (07326, KR) 서울특별시 영등포구 국제금융로 10 (여의도동 23) 한국아이비엠 |
 | 이용자 ID, 접속 IP     | 서비스 이용 시점에서 네트워크를 통한 전송 | 캐시(Cache) 등 콘텐츠 전송을 위한 임시 보유 | 이용 목적이 달성될 때 까지 | Oracle(미국) [#](https://www.oracle.com/kr/corporate/contact/) | (06164, KR) 서울시 강남구 영동대로 517 (삼성동 159) 아셈타워 15,16,36층 한국오라클 |
-| 이용자 ID, 접속 IP     | 서비스 이용 시점에서 네트워크를 통한 전송 | 캐시(Cache) 등 콘텐츠 전송을 위한 임시 보유 | 이용 목적이 달성될 때 까지 | The Constant Company(미국) | (FL 33401, US) 319 Clematis Street, Suite 900, West Palm Beach, 국내 서비스 대행사: 삼성SDS [#](https://www.peeringdb.com/asn/20473) |
+| 이용자 ID, 접속 IP     | 서비스 이용 시점에서 네트워크를 통한 전송 | 캐시(Cache) 등 콘텐츠 전송을 위한 임시 보유 | 이용 목적이 달성될 때 까지 | The Constant Company(미국) [#](https://www.constant.com/) | (FL 33401, US) 319 Clematis Street, Suite 900, West Palm Beach, 국내 서비스 대행사: 삼성SDS [#](https://www.peeringdb.com/asn/20473) |
 
 1. 케이티클라우드(kt cloud)는 본사와 호스트 서버 소재지가 모두 대한민국이므로 개인정보국외이전 대상이 아닙니다.
 2. The Constant Company(미국)의 국내 서비스 대행사는 삼성SDS 입니다. 위치: (03922) 서울특별시 마포구 월드컵북로60번길 24 삼성SDS IT센터
