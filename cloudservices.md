@@ -9,7 +9,9 @@
 |아이비엠(IBM)|Virtual Servers(가상서버), IBM Log Analysis with LogDNA(로그 수집 및 검색 지원), IBM Object Storage(스토리지 API), IBM Language Translator(번역 API)|https://cloud.ibm.com|
 |오라클(Oracle)|Virtual Servers(가상서버)|https://oracle.com|
 |The Constant Company|Virtual Servers(가상서버)|https://www.constant.com|
+|Amazon Web Services|Virtual Servers(가상서버)|https://aws.amazon.com|
+|NOCIX, LLC|Dedicated Servers(단독서버)|https://nocix.net|
 
 국외 업체의 연락처는 [개인정보국외이전](hosting_locations.md) 고지사항에서 확인하실 수 있습니다.
 
-본 클라우드 서비스 이용 현황은 2023년 11월 1일 18:00 UTC+9(KST) 부터 적용됩니다.
+본 클라우드 서비스 이용 현황은 2023년 11월 15일 18:00 UTC+9(KST) 부터 적용됩니다.
