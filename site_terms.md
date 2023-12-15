@@ -2,13 +2,12 @@
 
 [English version available](site_terms_EN.md)
 
-[Status page available](https://catswordssocialstatus-1689258553522.site24x7statusiq.com/)
-
 캐츠워즈 소셜(이하 '인스턴스') 이용 중 문제 발생 시 아래 긴급 연락처를 살펴봐주시기 바랍니다.
 
 * 전자우편: abuse@catswords.net
 * 유선전화: 070-7735-3586
 * 팩스: 032-232-7628
+* 문자메시지: 010-4492-7981
 * 인스턴스에서 자체 신고기능 운영 중
 
 아래는 담당자 정보 및 법적 표시 사항입니다.

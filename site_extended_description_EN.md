@@ -1,70 +1,70 @@
 [Korean version available](site_extended_description.md)
 
-[Status page available](https://catswordssocialstatus-1689258553522.site24x7statusiq.com/)
+Catswords Colosseum (catswords.social) is a social media server (hereinafter referred to as "instance") where anyone can freely join and participate.
 
-Catswords Social (catswords.social) is a Mastodon server, referred to as an "instance," where anyone can freely join and participate.
-
-If you encounter any issues while using Catswords Social, please take a look at the emergency contact information provided below:
+In case of issues during the use of 'Catswords Colosseum,' please refer to the emergency contact information below.
 
 * Email: abuse@catswords.net
 * Phone: +82-070-7735-3586
 * Fax: +82-032-232-7628
-* The instance operates its own reporting feature.
+* Text Messaging: +82-010-4492-7981
+* Instance operates its own reporting feature.
 
-Here is the information about the responsible party and legal notices:
+Below are the contact details and legal information:
 
-* Operator: Catswords Research
-  * Representative: Namhyeon Go
-  * Business Registration Number: 381-31-00499
-  * Mail-order-sales Registration Number: 2018-Incheon-Namdong-gu-0259
-  * Jurisdiction: Guwol-dong, Namdong-gu, Incheon, Republic of Korea (South Korea)
-* Data Protection Officer: Namhyeon Go (+82-070-7735-3586, gnh1201@gmail.com)
-* Server Location: KT Cheonan CDC, 89-28 Daheung 2-gil, Seongnam-myeon, Dongnam-gu, Cheonan-si, Chungcheongnam-do, Republic of Korea (31248, South Korea)
-* Recipient's Address: Catswords Research, Mailbox 35-16, 502, 11, Seonsuchon-gongwon-ro 23beon-gil, Namdong-gu, Incheon, Republic of Korea (21582, South Korea)
+* Operator: Catswords Research (Representative: Go Namhyeon, Business Registration Number: 381-31-00499, Online Sales Number: 2018-IncheonNamdong-0259, Location: Incheon Namdong-gu Guwol-dong)
+* Personal Information Officer: Go Namhyeon (070-7735-3586, gnh1201@gmail.com)
+* Host Server Location: (31248) 89-28, Daheung 2-gil, Seongnam-myeon, Cheonan-si, Chungcheongnam-do (KT Cheonan CDC, 266-5, Daheung-ri)
+* Mailing Address: (21582) Mailbox 35-16, 502, 11, Sunsuwon Park Road, Incheon, South Korea (Catswords Research, 1542-1, Guwol-dong)
 
-Please refer to [this link](site_terms.md) for the Privacy Policy.
+Please refer to [this link](site_terms.md) for the privacy policy. Information on accessibility can be found [here](accessibility.md).
 
-Catswords Social implements user protection measures. Procedures for user protection can be initiated in all cases where there is a potential dispute. The user protection measures are carried out as follows:
+Catswords Colosseum operates user protection measures. In cases where there is a potential dispute, user protection measures may be taken. The procedure for user protection measures is as follows:
 
-1. The user protection process begins with the receipt of a dispute. It is possible to contact the administrator through all available means. However, if the complaint is submitted by a third party who is not directly involved, it may be rejected depending on the circumstances.
-2. The opinion of the original content creator, which caused the user protection process, is considered. Throughout the process, the judgment prioritizes the intentions claimed by the content creator.
-3. Appropriate notification and argumentation procedures are conducted for all stakeholders.
-4. The decision on whether to proceed with user protection measures is made and communicated.
+1. The user protection measure process begins with the reception of a dispute. The administrator is reachable through all available means. However, if the reception is by a third party, it may be rejected depending on the circumstances.
+2. The original content creator's opinion, which caused the user protection measure process, is considered. Throughout the process, the content creator's intentions are prioritized.
+3. Appropriate notification and argument procedures are conducted for all stakeholders.
+4. The decision and notification of the user protection measure process are made.
 
-User protection measures are carried out after completing all of the above procedures. However, in specific cases, the regular procedure may be bypassed, and the administrator may proceed with user protection measures at their discretion.
+The user protection measure process is initiated only after completing all these steps. However, in specific cases, the standard procedure may be skipped, and the administrator may exercise the user protection measure at their discretion.
 
-* Contents (videos, photos, etc.) exposing genitals in content where humans are the subjects and posting them without appropriate audience restrictions. However, this exclusion does not apply in cases where there is a legal, medical, or academic consultation or when the content is a simple record without sexual intent or when the content is an artistic creation that imitates only the form of a person who is not the subject.
-* Adult content that does not involve genital exposure is not subject to direct intervention but follows the general user protection procedure. However, if the content addresses social or political criticism, it may not be subject to user protection measures.
-* Posting content (text, videos, photos, etc.) that supports acts of genocide. Examples: Hakenkreuz, Rising sun flag, IS flag, Z symbol.
-* Posting information about the manufacturing and distribution of prohibited items, excluding those who are legally qualified in South Korea. Examples: narcotics, firearms.
-* Posting content (text, videos, photos, etc.) regarding child labor involving individuals under the age of 18. However, this exclusion does not apply in cases where there is a legal, medical, or academic consultation or when the content serves public interest purposes.
-* Posting content that induces suicide or self-harm to an unspecified group or specific individuals. However, if the content relates to the personal circumstances of the poster and is not intended to induce such acts toward others, direct intervention or delay may be allowed to secure the assistance of relevant organizations.
-* Posting content simulating acts of terrorism. However, direct intervention or delay may be allowed to secure the assistance of relevant organizations.
-* Posting content that promotes illegal gambling. However, the determination of whether the content promotes illegal gambling refers to South Korean law, publicly available jurisprudence, and prevailing social norms in South Korea.
-* Posting content that simulates criminal organizations or similar entities.
-* Using the instance to harass individuals or groups (discrimination, defamation, etc.). Examples: cyberbullying, hate speech.
-* Using the instance with the purpose of inflicting mental or physical harm on individuals or groups. Examples: posting content that may trigger photosensitive epilepsy seizures in individuals with the condition.
-* Suspected accounts created by hackers or hacker organizations receiving financial support.
-* Reporting the use of copyrighted material beyond the scope permitted by prior disclosure of copyrights.
-* When conducting the user protection procedure, it may not be possible to estimate the user's age accurately even after considering the data recorded on the instance. Individuals whose age cannot be estimated may be requested to submit a "Consent Form for the Collection and Provision of Personal Information" and a "Legal Guardian Consent Form" for accurate verification. Refusal to comply may result in direct intervention.
+Examples of cases subject to direct administrator action:
 
-The criteria for determining "individuals whose age cannot be estimated" in the user protection procedure on this instance are as follows:
+* Exposing genitals in content (video, photo, etc.) without appropriate audience settings, except for cases of legal, medical, academic consultation, or factual documentation, or when the content depicts non-human creations mimicking human forms.
+* Content that supports acts of genocide, depicted by symbols such as the Hakenkreuz, Rising Sun Flag, IS Flag, or Z symbol.
+* Posting information on the manufacture and distribution of prohibited items (e.g., drugs, firearms) excluding those permitted by South Korean law to qualify.
+* Posting content related to child labor for those under 18, excluding cases for legal, medical, academic consultation, or public interest purposes.
+* Posting content that induces suicide or self-harm for an unspecified or specific individual, except for cases where the intention is not to induce such actions against others and the content pertains to the poster's own situation, allowing time to secure assistance from relevant authorities.
+* Posting content simulating terrorism, allowing time to secure assistance from relevant authorities.
+* Posting content that promotes illegal gambling, with the criteria based on South Korean law or general societal norms.
+* Posting content simulating criminal organizations or groups.
+* Using the instance to harass individuals or groups (e.g., cyberbullying, hate speech).
+* Using the instance with the intent to cause mental or physical harm to individuals or groups.
+* Suspicion of accounts created by hackers or hacker organizations seeking financial support.
+* Report of the use of copyrighted material beyond the scope allowed by prior public disclosure of the copyright.
 
-* Korean language users who demonstrate a level of literacy, vocabulary, comprehension, and sentence structure that is difficult to consider as having received education equivalent to at least the second year of middle school in South Korea. However, individuals whose native language is not Korean are not subject to age estimation.
-* English or foreign language users are not subject to age estimation.
+The copyright of works produced on this instance follows the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless indicated otherwise. License compliance is expected from all entities (e.g., humans, natural language processing, image processing machines) with learning capabilities, and if the entity intending to use the work is not a natural person, it must sufficiently demonstrate that the natural person representing the entity can comply with the license. Failure to do so may lead to the user protection measures mentioned earlier.
 
-The copyright of the works generated on this instance follows the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise specified. This license must be adhered to by all entities capable of learning, such as natural beings (humans), machines capable of natural language and image processing, and if the entity using the work is not a natural being (human), it must sufficiently demonstrate that the natural being (human) representing the entity is capable of complying with the license. Failure to provide sufficient demonstration or refusal to comply will result in following the user protection measures mentioned above.
+For situations where the administrator's normal functioning is not possible, the instance designates a legal representative with technical authority (hereinafter 'technical representative').
 
-This instance has designated a legal representative with the authority to act on behalf of the administrator in situations where the administrator is unable to exercise normal capabilities. The legal representative (referred to as the "technical representative") is prepared for similar circumstances, such as the death or disappearance of the administrator, mental incompetence, being detained or taken hostage in a third country, being wanted by domestic or international judicial institutions, threats from criminal organizations or unknown individuals or groups resulting in hiding, conscription due to war or similar national crisis situations, or any similar situation where contact and location cannot be ascertained for 24 hours or more, as well as any other situation previously announced through all available means.
+1. Administrator's death
+2. Disappearance
+3. Mental incapacitation or insanity
+4. Detainment, hostage-taking, or captivity in a third country
+5. Designation for arrest by domestic or international legal authorities
+6. Hiding due to threats from criminal organizations or personal sanctions
+7. Conscription due to war or similar national crisis
+8. Inability to establish contact or locate for over 24 hours by any announced means
+9. Other similar situations
 
-In the event of a similar situation, the rights transfer of this instance takes precedence for the designated technical representative as appointed by the administrator. If a similar situation arises, the technical representative has the right to exercise those rights within 5 days from the day the technical representative is informed by the administrator (however, if the technical representative is unavailable, the rights will automatically transfer to the legal representative from the day a third party attempts to contact the technical representative to inform them of the similar situation using all possible means).
+In the event of a similar situation, the right transfer to the technical representative prevails over the administrator. If the technical representative does not exercise the right within 5 days of being notified (or from the day a third party informs the technical representative in the case of the representative being unlocatable), the right automatically transfers to the legal representative.
 
-* Designated Technical Representative: Junyoung Kim (+82-0507-954-5188, juni65423@gmail.com)
-* Scope of Technical Representative's Rights: All physical assets (servers, PCs, etc.) necessary for operating this instance, all intangible electronic forms (software, databases, files, etc.), and all cloud service contract terms.
-* Limitation of Technical Representative's Rights: The rights of the technical representative are only exercised (acquired) when the administrator is unable to exercise normal capabilities.
+* Designated Technical Representative: Kim Junyoung (+82-0507-954-5188, juni65423@gmail.com)
+* Scope of Technical Representative's Rights: All physical assets (servers, PCs, etc.), all electronic forms of inanimate objects (software, databases, files, etc.), all terms of cloud service contracts necessary to operate this instance
+* Limits of Technical Representative's Rights: Technical representative's rights occur (are acquired) only in situations where the administrator's normal functioning is not possible.
 
-By joining this instance, it is considered that you agree to these rules.
+If an unplanned connection failure persists for more than 3 hours, compensation for connection issues can be requested through the emergency contact. However, evidence must be submitted that proves an attempt to connect during the time of the connection failure. The range and compensation depend on the cause, scale of the failure, and the number of affected users, and the administrator makes the final decision.
 
-These rules will be effective from July 31, 2023, 23:00 UTC+9 (KST).
+By joining this instance, it is assumed that you agree to these rules.
 
-TRANSLATION POWERED BY [CHATGPT](https://chat.openai.com/) AND CORRECTED BY ADMINISTRATOR
+These rules are effective from December 16, 2023, 09:00 UTC+9 (KST).
