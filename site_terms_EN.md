@@ -31,7 +31,7 @@ The regulations regarding access to personal information are as follows: Catswor
 * Cooperation requests from relevant agencies and organizations related to urgent matters recognized by social norms (emergency medical care, missing persons, violent crimes, natural disasters, personnel accidents, distress, rescue, relief, evacuation, etc.). However, access may be denied based on internal review or expert advice.
 * Receipt of a content certification. However, access may be denied based on internal review or expert advice.
 * Processing the prize delivery process for users who have won events
-* Resolution of issues arising from Mastodon updates
+* Resolution of issues arising from [Mastodon](https://github.com/mastodon/mastodon) (ActivityPub), [ejabberd](https://github.com/processone/ejabberd) (XMPP) updates
 * Recovery operations due to the loss of equipment or data necessary for operation
 * Implementation of user protection measures
 * Receipt of personal information access claims through the [Personal Information Portal](https://www.privacy.go.kr) operated by the Ministry of the Interior and Safety of South Korea
@@ -76,4 +76,4 @@ If you believe that this instance cannot sufficiently protect your personal info
 
 By joining this instance, you are considered to agree to this privacy policy.
 
-This privacy policy is effective from December 16, 2023, 09:00 UTC+9 (KST).
+This privacy policy is effective from December 26, 2023, 09:00 UTC+9 (KST).
