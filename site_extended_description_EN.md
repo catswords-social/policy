@@ -47,19 +47,21 @@ The copyright of works produced on this instance follows the [Creative Commons A
 
 For situations where the administrator's normal functioning is not possible, the instance designates a legal representative with technical authority (hereinafter 'technical representative').
 
-1. Administrator's death
-2. Disappearance
-3. Mental incapacitation or insanity
-4. Detainment, hostage-taking, or captivity in a third country
-5. Designation for arrest by domestic or international legal authorities
-6. Hiding due to threats from criminal organizations or personal sanctions
-7. Conscription due to war or similar national crisis
-8. Inability to establish contact or locate for over 24 hours by any announced means
-9. Other similar situations
+1. Death
+2. Missing
+3. Mentally incapacitated or in a mentally deranged state
+4. Detained, held hostage, or kept as a prisoner in a third country
+5. Designated as wanted by domestic or international judicial authorities
+6. Hiding due to threats such as from criminal organizations or private sanctions
+7. Conscription due to war or a situation equivalent to a national crisis
+8. Natural disaster situations such as earthquakes, tsunamis, typhoons, etc.
+9. Accidents or kidnappings involving transportation methods like aviation, railways, maritime, etc.
+10. Unable to be contacted or whereabouts not ascertainable for more than 24 hours through all announced means
+11. Other similar situations
 
 In the event of a similar situation, the right transfer to the technical representative prevails over the administrator. If the technical representative does not exercise the right within 5 days of being notified (or from the day a third party informs the technical representative in the case of the representative being unlocatable), the right automatically transfers to the legal representative.
 
-* Designated Technical Representative: Kim Junyoung (+82-0507-954-5188, juni65423@gmail.com)
+* Technical Representative: Kim Junyoung (+82-0507-954-5188, juni65423@gmail.com)
 * Scope of Technical Representative's Rights: All physical assets (servers, PCs, etc.), all electronic forms of inanimate objects (software, databases, files, etc.), all terms of cloud service contracts necessary to operate this instance
 * Limits of Technical Representative's Rights: Technical representative's rights occur (are acquired) only in situations where the administrator's normal functioning is not possible.
 
@@ -67,4 +69,4 @@ If an unplanned connection failure persists for more than 3 hours, compensation 
 
 By joining this instance, it is assumed that you agree to these rules.
 
-These rules are effective from December 16, 2023, 09:00 UTC+9 (KST).
+These rules are effective from February 01, 2024, 18:00 UTC+9 (KST).
