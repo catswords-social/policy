@@ -6,11 +6,11 @@
 |---|---|---|
 |KT클라우드|Virtual Servers(가상서버), AppRun(Containers)|https://cloud.kt.com|
 |클라우드플레어(Cloudflare)|CDN(콘텐츠 전송 가속), DDoS(서비스 부하 공격) 방어, R2 Storage(스토리지 API), Zero Trust Tunnel(서버향 터널), Zero Trust WARP(클라이언트향 터널), Cloudflare Workers(마이크로서비스 개발 환경)|https://cloudflare.com|
-|아이비엠(IBM)|Virtual Servers(가상서버), IBM Log Analysis with LogDNA(로그 수집 및 검색 지원), IBM Object Storage(스토리지 API), IBM Language Translator(번역 API)|https://cloud.ibm.com|
+|아이비엠(IBM)|Virtual Servers(가상서버), IBM Object Storage(스토리지 API)|https://cloud.ibm.com|
 |The Constant Company|Virtual Servers(가상서버)|https://www.constant.com|
 
 국외 업체의 연락처는 [개인정보국외이전](hosting_locations.md) 고지사항에서 확인하실 수 있습니다.
 
 자체 관리하는 온프레미스(On-premise, 물리서버) 서버 및 서비스는 본 목록에 기재하지 않습니다.
 
-본 클라우드 서비스 이용 현황은 2024년 02월 13일 18:00 UTC+9(KST) 부터 적용됩니다.
+본 클라우드 서비스 이용 현황은 2024년 03월 29일 09:00 UTC+9(KST) 부터 적용됩니다.
