@@ -1,5 +1,5 @@
-# catswords-social/policy
-The policies of catswords.social
+# policy.catswords.social
+Terms and policies - catswords.social
 
 * [site_extended_description.md](site_extended_description.md)
 * [site_terms.md](site_terms.md)
