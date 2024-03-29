@@ -7,7 +7,6 @@ Catswords Colosseum (hereinafter referred to as "instance") users, please refer 
 * Email: abuse@catswords.net
 * Phone: (+82) 070-7735-3586
 * Fax: (+82) 032-232-7628
-* Text Messaging: (+82) 010-4492-7981
 * Instance operates its own reporting feature.
 
 Below is the contact information and legal notice for the responsible party:
