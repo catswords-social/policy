@@ -1,4 +1,4 @@
-# Privacy Policy
+## Privacy Policy
 
 [Korean version available](site_terms.md)
 
