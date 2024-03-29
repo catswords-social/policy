@@ -1,4 +1,4 @@
-# 개인정보보호정책
+## 개인정보보호정책
 
 [English version available](site_terms_EN.md)
 
