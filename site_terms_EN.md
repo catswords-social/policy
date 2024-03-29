@@ -7,7 +7,7 @@ Catswords Colosseum (hereinafter referred to as "instance") users, please refer 
 * Email: abuse@catswords.net
 * Phone: (+82) 070-7735-3586
 * Fax: (+82) 032-232-7628
-* Instance operates its own reporting feature.
+* Autonomous reporting procedure is being operated on this server.
 
 Below is the contact information and legal notice for the responsible party:
 
@@ -75,4 +75,4 @@ If you believe that this instance cannot sufficiently protect your personal info
 
 By joining this instance, you are considered to agree to this privacy policy.
 
-This privacy policy is effective from March 29, 2024, 09:00 UTC+9 (KST).
+This privacy policy is effective from April 01, 2024, 09:00 UTC+9 (KST).
