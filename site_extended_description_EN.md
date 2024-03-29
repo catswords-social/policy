@@ -2,7 +2,7 @@
 
 [Korean version available](site_extended_description.md)
 
-Catswords Colosseum (catswords.social) is a social media server (hereinafter referred to as "instance") where anyone can freely join and participate.
+Catswords Colosseum (catswords.social) is a social media server (hereinafter referred to as "server") where anyone can freely join and participate.
 
 In case of issues during the use of 'Catswords Colosseum,' please refer to the emergency contact information below.
 
@@ -39,14 +39,14 @@ Examples of cases subject to direct administrator action:
 * Posting content simulating terrorism, allowing time to secure assistance from relevant authorities.
 * Posting content that promotes illegal gambling, with the criteria based on South Korean law or general societal norms.
 * Posting content simulating criminal organizations or groups.
-* Using the instance to harass individuals or groups (e.g., cyberbullying, hate speech).
-* Using the instance with the intent to cause mental or physical harm to individuals or groups.
+* Using the server to harass individuals or groups (e.g., cyberbullying, hate speech).
+* Using the server with the intent to cause mental or physical harm to individuals or groups.
 * Suspicion of accounts created by hackers or hacker organizations seeking financial support.
 * Report of the use of copyrighted material beyond the scope allowed by prior public disclosure of the copyright.
 
-The copyright of works produced on this instance follows the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless indicated otherwise. License compliance is expected from all entities (e.g., humans, natural language processing, image processing machines) with learning capabilities, and if the entity intending to use the work is not a natural person, it must sufficiently demonstrate that the natural person representing the entity can comply with the license. Failure to do so may lead to the user safety measures mentioned earlier.
+The copyright of works produced on this server follows the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless indicated otherwise. License compliance is expected from all entities (e.g., humans, natural language processing, image processing machines) with learning capabilities, and if the entity intending to use the work is not a natural person, it must sufficiently demonstrate that the natural person representing the entity can comply with the license. Failure to do so may lead to the user safety measures mentioned earlier.
 
-For situations where the administrator's normal functioning is not possible, the instance designates a legal representative with technical authority (hereinafter 'technical representative').
+For situations where the administrator's normal functioning is not possible, the server designates a legal representative with technical authority (hereinafter 'technical representative').
 
 1. Death
 2. Missing
@@ -63,11 +63,11 @@ For situations where the administrator's normal functioning is not possible, the
 In the event of a similar situation, the right transfer to the technical representative prevails over the administrator. If the technical representative does not exercise the right within 5 days of being notified (or from the day a third party informs the technical representative in the case of the representative being unlocatable), the right automatically transfers to the legal representative.
 
 * Technical Representative: Kim Junyoung (+82-0507-954-5188, juni65423@gmail.com)
-* Scope of Technical Representative's Rights: All physical assets (servers, PCs, etc.), all electronic forms of inanimate objects (software, databases, files, etc.), all terms of cloud service contracts necessary to operate this instance
+* Scope of Technical Representative's Rights: All physical assets (servers, PCs, etc.), all electronic forms of inanimate objects (software, databases, files, etc.), all terms of cloud service contracts necessary to operate this server
 * Limits of Technical Representative's Rights: Technical representative's rights occur (are acquired) only in situations where the administrator's normal functioning is not possible.
 
 If an unplanned connection failure persists for more than 3 hours, compensation for connection issues can be requested through the emergency contact. However, evidence must be submitted that proves an attempt to connect during the time of the connection failure. The range and compensation depend on the cause, scale of the failure, and the number of affected users, and the administrator makes the final decision.
 
-By joining this instance, it is assumed that you agree to these rules.
+By joining this server, it is assumed that you agree to these rules.
 
 These rules are effective from March 29, 2024, 18:00 UTC+9 (KST).
