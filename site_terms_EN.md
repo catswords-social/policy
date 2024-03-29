@@ -39,11 +39,11 @@ The regulations regarding access to personal information are as follows: Catswor
 
 Personal information may be retained for up to 5 years according to related laws:
 
-1. E-commerce Act Enforcement Decree/Record of indication and advertising: 6 months
-2. E-commerce Act Enforcement Decree/Record of contracts or withdrawal of subscription, etc.: 5 years
-3. E-commerce Act Enforcement Decree/Record of payment and supply of goods, etc.: 5 years
-4. E-commerce Act Enforcement Decree/Record of consumer complaints or dispute resolution: 3 years
-5. Information and Communication Network Act/Record of identity verification: 6 months
+1. Enforcement Decree Of The Act On The Consumer Protection In Electronic Commerce/Records related to marks and advertisements: 6 months
+2. Enforcement Decree Of The Act On The Consumer Protection In Electronic Commerce/Records related to cancellation of contracts or subscriptions, etc.: 5 years
+3. Enforcement Decree Of The Act On The Consumer Protection In Electronic Commerce/Records related to payment for and supply of goods, etc.: 5 years
+4. Enforcement Decree Of The Act On The Consumer Protection In Electronic Commerce/Records related to resolution of consumer complaints or disputes: 3 years
+5. Act On Promotion Of Information And Communications Network Utilization And Information Protection/Records related of identity verification: 6 months
 
 Catswords Colosseum does not sell data to third parties. Transfer of personal information to a third party is only allowed in the following cases:
 
