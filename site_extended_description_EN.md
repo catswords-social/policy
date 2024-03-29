@@ -1,3 +1,5 @@
+# Terms of Service
+
 [Korean version available](site_extended_description.md)
 
 Catswords Colosseum (catswords.social) is a social media server (hereinafter referred to as "instance") where anyone can freely join and participate.
@@ -7,7 +9,7 @@ In case of issues during the use of 'Catswords Colosseum,' please refer to the e
 * Email: abuse@catswords.net
 * Phone: +82-070-7735-3586
 * Fax: +82-032-232-7628
-* Instance operates its own reporting feature.
+* Autonomous reporting procedure is being operated on this server.
 
 Below are the contact details and legal information:
 
