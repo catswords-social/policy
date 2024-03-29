@@ -1,4 +1,4 @@
-# 이용 규칙
+## 이용 규칙
 
 [English version available](site_extended_description_EN.md)
 
