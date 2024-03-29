@@ -18,14 +18,14 @@ Below are the contact details and legal information:
 
 Please refer to [this link](site_terms.md) for the privacy policy. Information on accessibility can be found [here](accessibility.md).
 
-Catswords Colosseum operates user protection measures. In cases where there is a potential dispute, user protection measures may be taken. The procedure for user protection measures is as follows:
+Catswords Colosseum operates user safety measures. In cases where there is a potential dispute, user safety measures may be taken. The procedure for user safety measures is as follows:
 
-1. The user protection measure process begins with the reception of a dispute. The administrator is reachable through all available means. However, if the reception is by a third party, it may be rejected depending on the circumstances.
-2. The original content creator's opinion, which caused the user protection measure process, is considered. Throughout the process, the content creator's intentions are prioritized.
+1. The user safety measure process begins with the reception of a dispute. The administrator is reachable through all available means. However, if the reception is by a third party, it may be rejected depending on the circumstances.
+2. The original content creator's opinion, which caused the user safety measure process, is considered. Throughout the process, the content creator's intentions are prioritized.
 3. Appropriate notification and argument procedures are conducted for all stakeholders.
-4. The decision and notification of the user protection measure process are made.
+4. The decision and notification of the user safety measure process are made.
 
-The user protection measure process is initiated only after completing all these steps. However, in specific cases, the standard procedure may be skipped, and the administrator may exercise the user protection measure at their discretion.
+The user safety measure process is initiated only after completing all these steps. However, in specific cases, the standard procedure may be skipped, and the administrator may exercise the user safety measure at their discretion.
 
 Examples of cases subject to direct administrator action:
 
@@ -42,7 +42,7 @@ Examples of cases subject to direct administrator action:
 * Suspicion of accounts created by hackers or hacker organizations seeking financial support.
 * Report of the use of copyrighted material beyond the scope allowed by prior public disclosure of the copyright.
 
-The copyright of works produced on this instance follows the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless indicated otherwise. License compliance is expected from all entities (e.g., humans, natural language processing, image processing machines) with learning capabilities, and if the entity intending to use the work is not a natural person, it must sufficiently demonstrate that the natural person representing the entity can comply with the license. Failure to do so may lead to the user protection measures mentioned earlier.
+The copyright of works produced on this instance follows the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless indicated otherwise. License compliance is expected from all entities (e.g., humans, natural language processing, image processing machines) with learning capabilities, and if the entity intending to use the work is not a natural person, it must sufficiently demonstrate that the natural person representing the entity can comply with the license. Failure to do so may lead to the user safety measures mentioned earlier.
 
 For situations where the administrator's normal functioning is not possible, the instance designates a legal representative with technical authority (hereinafter 'technical representative').
 
