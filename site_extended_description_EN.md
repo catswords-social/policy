@@ -9,7 +9,8 @@ In case of issues during the use of 'Catswords Colosseum,' please refer to the e
 * Email: abuse@catswords.net
 * Phone: +82-070-7735-3586
 * Fax: +82-032-232-7628
-* Autonomous reporting procedure is being operated on this server.
+* [Voice of the Customer](voc.html)
+* This server has the abuse reporting feature enabled.
 
 Below are the contact details and legal information:
 
@@ -70,4 +71,4 @@ If an unplanned connection failure persists for more than 3 hours, compensation 
 
 By joining this server, it is assumed that you agree to these rules.
 
-These rules are effective from March 29, 2024, 18:00 UTC+9 (KST).
+These rules are effective from April 08, 2024, 09:00 UTC+9 (KST).
