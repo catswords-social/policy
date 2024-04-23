@@ -8,11 +8,11 @@
 - [@tkgka@catswords.social](https://catswords.social/@tkgka) - 정기 후원 (깃허브)
 - 친애하는 연합우주 서버장님들과 참여자님들
 
-아래는 캐츠워즈 관련 프로젝트에 기여하신 분들입니다. (캐츠워즈 데이터형식 사전, 어셈넥스트 웹어셈블리연구회 등)
+아래는 캐츠워즈 관련 프로젝트에 기여하신 분들입니다. (캐츠워즈 데이터형식 사전, 어셈넥스트 등)
 
 - 남대영 - 후원 1회 (계좌이체)
 - Winter Soldier - 후원 1회 (계좌이체)
-- @ssainball - 어셈넥스트 웹어셈블리연구회 (바이트코드 얼라이언스 회원사) 창립 멤버
+- @ssainball - 어셈넥스트 (2022년도 Bytecode Alliance 회원사) 창립 멤버
 
 명예의 전당에 관심이 있으신 분들은 [@gnh1201@catswords.social](https://catswords.social/@gnh1201) 또는 [긴급연락처](site_extended_description.md)로 연락주시기 바랍니다.
 
