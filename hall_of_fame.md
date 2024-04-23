@@ -2,7 +2,7 @@
 캐츠워즈 콜로세움 운영에 직간접적으로 도움을 주신 분들입니다.
 
 - [@puppygo@twingyeo.kr](https://twingyeo.kr/@puppygo) - 후원 2회 (계좌이체)
-- [@juni65423@catswords.social](https://catswords.social/@juni65423) - 먹거리 후원 다회, 現 기술대리인
+- [@juni65423@catswords.social](https://catswords.social/@juni65423) - 후원 다회 (먹거리), 現 기술대리인
 - [@hcho3@hoto.moe](https://hoto.moe/@hcho3) - 후원 2회 (깃허브)
 - [@AkiaCode](https://github.com/AkiaCode) - 정기 후원 (깃허브)
 - [@tkgka@catswords.social](https://catswords.social/@tkgka) - 정기 후원 (깃허브)
