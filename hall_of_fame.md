@@ -2,11 +2,17 @@
 캐츠워즈 콜로세움 운영에 직간접적으로 도움을 주신 분들입니다.
 
 - [@puppygo@twingyeo.kr](https://twingyeo.kr/@puppygo) - 후원 2회 (계좌이체)
-- [@juni65423@catswords.social](https://catswords.social/@juni65423) - 現 기술대리인
+- [@juni65423@catswords.social](https://catswords.social/@juni65423) - 먹거리 후원 다회, 現 기술대리인
 - [@hcho3@hoto.moe](https://hoto.moe/@hcho3) - 후원 2회 (깃허브)
 - [@AkiaCode](https://github.com/AkiaCode) - 정기 후원 (깃허브)
 - [@tkgka@catswords.social](https://catswords.social/@tkgka) - 정기 후원 (깃허브)
 - 친애하는 연합우주 서버장님들과 참여자님들
+
+아래는 캐츠워즈 관련 프로젝트에 기여하신 분들입니다. (캐츠워즈 데이터형식 사전, 어셈넥스트 웹어셈블리연구회 등)
+
+- 남대영 - 후원 1회 (계좌이체)
+- Winter Soldier - 후원 1회 (계좌이체)
+- @ssainball - 어셈넥스트 웹어셈블리연구회 (바이트코드 얼라이언스 회원사) 창립 멤버
 
 명예의 전당에 관심이 있으신 분들은 [@gnh1201@catswords.social](https://catswords.social/@gnh1201) 또는 [긴급연락처](site_extended_description.md)로 연락주시기 바랍니다.
 
