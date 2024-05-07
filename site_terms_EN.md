@@ -35,7 +35,9 @@ The regulations regarding access to personal information are as follows: Catswor
 * Recovery operations due to the loss of equipment or data necessary for operation
 * Implementation of user protection measures
 * Receipt of personal information access claims through the [Personal Information Portal](https://www.privacy.go.kr) operated by the Ministry of the Interior and Safety of South Korea
-* Confirmation of content for users claiming the 'Right To Be Forgotten' (RTBF). However, requests may be denied if no valid legal basis is provided, the individual can delete the content themselves, the authorship cannot be verified, or if access blocking or deletion is prohibited by law, regulation, order, etc., or if it pertains to public interest content or content without personal information.
+* Received a cooperation request regarding RTBF (Right To Be Forgotten).
+  - If you are a Republic of Korea citizen under the age of 30, you can request the deletion of posts containing personal information from your childhood or adolescence (under 19 years old) to relevant agencies.
+  - If you are a Republic of Korea citizen over the age of 19, you can claim the "self-post access exclusion right" to prohibit others from accessing posts you have written to relevant agencies.
 * Upon receiving a request for cooperation related to CSAM (Child Sexual Abuse Material). However, legal precedence is given to the Republic of Korea's 'Act on the Protection of Children and Youth Against Sex Offenses' (enacted on January 13, 2022). Even if the requester's nationality is not Korean, the administrator may view personal information and report to and transfer the reviewed materials to administrative or investigative agencies in the Republic of Korea.
 
 Personal information may be retained for up to 5 years according to related laws:
