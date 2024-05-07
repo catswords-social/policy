@@ -33,7 +33,7 @@ The user safety measure process is initiated only after completing all these ste
 Examples of cases subject to direct administrator action:
 
 * Exposing genitals in content (video, photo, etc.) without appropriate audience settings, except for cases of legal, medical, academic consultation, or factual documentation, or when the content depicts non-human creations mimicking human forms.
-* Content that supports acts of genocide, depicted by symbols such as the Hakenkreuz, Rising Sun Flag, IS Flag, or Z symbol.
+* Intentionally including symbols indicating support for acts of genocide in content. e.g., Hakenkreuz, Rising sun flag
 * Posting information on the manufacture and distribution of prohibited items (e.g., drugs, firearms) excluding those permitted by South Korean law to qualify.
 * Posting content related to child labor for those under 18, excluding cases for legal, medical, academic consultation, or public interest purposes.
 * Posting content that induces suicide or self-harm for an unspecified or specific individual, except for cases where the intention is not to induce such actions against others and the content pertains to the poster's own situation, allowing time to secure assistance from relevant authorities.
@@ -71,4 +71,4 @@ If an unplanned connection failure persists for more than 3 hours, compensation 
 
 By joining this server, it is assumed that you agree to these rules.
 
-These rules are effective from April 08, 2024, 09:00 UTC+9 (KST).
+These rules are effective from May 07, 2024, 09:00 UTC+9 (KST).
