@@ -8,5 +8,6 @@ Terms and policies - catswords.social
 * [accessibility.md](accessibility.md)
 * [hall_of_fame.md](hall_of_fame.md)
 * [dmca.md](dmca.md)
+* [image_stocks.md](image_stocks.md)
 
 Website: https://catswords.social
