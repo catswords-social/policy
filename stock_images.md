@@ -12,6 +12,7 @@ License attributions for stock images used in our services or open source projec
 * Superglyph OS Icons, synonymsof, [CC BY 4.0 DEED Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), [Website](https://synonymsof.com/)
 * Strategy Management, Cyber Olympus, [CC BY 4.0 DEED Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), [Website](https://www.iconfinder.com/laurentia-lisa)
 * Cornmanthe3rd (Jackson), Plex Icons, Free for personal use, [Website](http://cornmanthe3rd.deviantart.com)
+* Unicons Line vol.2 icon pack, Iconscout, [CC0 1.0 DEED CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), [Website](https://www.iconfinder.com/iconsets/unicons-line-vol-2)
 
 ## Report abuse
 * ActivityPub [@catswords_oss@catswords.social](https://catswords.social/@catswords_oss)
