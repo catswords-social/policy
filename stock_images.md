@@ -8,7 +8,8 @@ License attributions for stock images used in our services or open source projec
 * Icon-Icons, Icon-Icons, [Icon-Icons free license](https://icon-icons.com/license), [Website](https://icon-icons.com/)
 * Windows 8 Icon, Icons8, [CC BY 4.0 DEED Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), [Website](http://icons8.com/)
 * MichaelKirilovskiy, Michael.Kirilovskiy, [MIT](https://opensource.org/license/mit), [Website](https://github.com/MichaelKirilovskiy/)
-* Superglyph OS Icons, synonymsof, [CC BY 4.0 DEED Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). [Website](https://synonymsof.com/)
+* Superglyph OS Icons, synonymsof, [CC BY 4.0 DEED Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), [Website](https://synonymsof.com/)
+* Strategy Management, Cyber Olympus, [CC BY 4.0 DEED Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), [Website](https://www.iconfinder.com/laurentia-lisa)
 
 ## Report abuse
 * ActivityPub [@catswords_oss@catswords.social](https://catswords.social/@catswords_oss)
