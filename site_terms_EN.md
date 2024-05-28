@@ -7,7 +7,7 @@ Catswords Colosseum (hereinafter referred to as "instance") users, please refer 
 * Email: abuse@catswords.net
 * Phone: (+82) 070-7735-3586
 * Fax: (+82) 032-232-7628
-* [Voice of the Customer](voc_en.html)
+* [Voice of the Customer](https://catswords.re.kr/go/voc)
 * This server has the abuse reporting feature enabled.
 
 Below is the contact information and legal notice for the responsible party:
