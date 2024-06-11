@@ -5,14 +5,13 @@
 Catswords Colosseum (hereinafter referred to as "instance") users, please refer to the emergency contact information below in case of any issues during use.
 
 * Email: abuse@catswords.net
-* Phone: (+82) 070-7735-3586
-* Fax: (+82) 032-232-7628
-* [Voice of the Customer](https://catswords.re.kr/go/voc)
+* Phone: +82-70-7735-3586
+* Fax: +82-32-232-7628
 * This server has the abuse reporting feature enabled.
 
 Below is the contact information and legal notice for the responsible party:
 
-* Operator: Namhyeon Go (Individual)
+* Operator: Catswords Research (catswords.com)
 * Personal Information Officer: Namhyeon Go (+82-070-7735-3586, gnh1201@gmail.com)
 * Host Server Location: (31248) 89-28, Daheung 2-gil, Seongnam-myeon, Cheonan-si, Chungcheongnam-do, Republic of Korea (KT Cheonan CDC, 266-5, Daheung-ri)
 * Mailing Address: (21582) Mailbox 35-16, 502, 11, Sunsuchongongwon-ro-23-beongil (23rd street of Seonsuchon Park Road), Incheon, Republic of Korea (1542-1, Guwol-dong)
@@ -79,4 +78,4 @@ If you believe that this instance cannot sufficiently protect your personal info
 
 By joining this instance, you are considered to agree to this privacy policy.
 
-This privacy policy is effective from April 08, 2024, 09:00 UTC+9 (KST).
+This privacy policy is effective from June 12, 2024, 09:00 UTC+9 (KST).

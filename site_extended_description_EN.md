@@ -7,14 +7,13 @@ Catswords Colosseum (catswords.social) is a social media server (hereinafter ref
 In case of issues during the use of 'Catswords Colosseum,' please refer to the emergency contact information below.
 
 * Email: abuse@catswords.net
-* Phone: +82-070-7735-3586
-* Fax: +82-032-232-7628
-* [Voice of the Customer](https://catswords.re.kr/go/voc)
+* Phone: +82-70-7735-3586
+* Fax: +82-32-232-7628
 * This server has the abuse reporting feature enabled.
 
 Below are the contact details and legal information:
 
-* Operator: Namhyeon Go (Individual)
+* Operator: Catswords Research (catswords.com)
 * Personal Information Officer: Namhyeon Go (+82-070-7735-3586, gnh1201@gmail.com)
 * Host Server Location: (31248) 89-28, Daheung 2-gil, Seongnam-myeon, Cheonan-si, Chungcheongnam-do, Republic of Korea (KT Cheonan CDC, 266-5, Daheung-ri)
 * Mailing Address: (21582) Mailbox 35-16, 502, 11, Sunsuchongongwon-ro-23-beongil (23rd street of Seonsuchon Park Road), Incheon, Republic of Korea (1542-1, Guwol-dong)
@@ -71,4 +70,4 @@ If an unplanned connection failure persists for more than 3 hours, compensation 
 
 By joining this server, it is assumed that you agree to these rules.
 
-These rules are effective from May 07, 2024, 09:00 UTC+9 (KST).
+These rules are effective from June 12, 2024, 09:00 UTC+9 (KST).
