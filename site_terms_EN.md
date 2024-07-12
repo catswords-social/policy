@@ -1,5 +1,4 @@
 ## Privacy Policy
-
 [Korean version available](site_terms.md)
 
 Catswords Colosseum (hereinafter referred to as "instance") users, please refer to the emergency contact information below in case of any issues during use.
@@ -7,6 +6,7 @@ Catswords Colosseum (hereinafter referred to as "instance") users, please refer 
 * Email: abuse@catswords.net
 * Phone: +82-70-7735-3586
 * Fax: +82-32-232-7628
+* [Join Catswords on Microsoft Teams](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
 * This server has the abuse reporting feature enabled.
 
 Below is the contact information and legal notice for the responsible party:
@@ -78,4 +78,4 @@ If you believe that this instance cannot sufficiently protect your personal info
 
 By joining this instance, you are considered to agree to this privacy policy.
 
-This privacy policy is effective from June 12, 2024, 09:00 UTC+9 (KST).
+This privacy policy is effective from July 15, 2024, 09:00 UTC+9 (KST).
