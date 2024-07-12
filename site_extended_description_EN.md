@@ -1,5 +1,4 @@
 ## Terms of Service
-
 [Korean version available](site_extended_description.md)
 
 Catswords Colosseum (catswords.social) is a social media server (hereinafter referred to as "server") where anyone can freely join and participate.
@@ -9,6 +8,7 @@ In case of issues during the use of 'Catswords Colosseum,' please refer to the e
 * Email: abuse@catswords.net
 * Phone: +82-70-7735-3586
 * Fax: +82-32-232-7628
+* [Join Catswords on Microsoft Teams](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
 * This server has the abuse reporting feature enabled.
 
 Below are the contact details and legal information:
@@ -70,4 +70,4 @@ If an unplanned connection failure persists for more than 3 hours, compensation 
 
 By joining this server, it is assumed that you agree to these rules.
 
-These rules are effective from June 12, 2024, 09:00 UTC+9 (KST).
+These rules are effective from July 15, 2024, 09:00 UTC+9 (KST).
