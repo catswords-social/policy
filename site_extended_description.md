@@ -1,5 +1,4 @@
 ## 이용 규칙
-
 [English version available](site_extended_description_EN.md)
 
 '캐츠워즈 콜로세움'(catswords.social)은 누구든지 자유롭게 가입하고 활동할 수 있는 소셜미디어 서버(이하 '서버')입니다.
@@ -9,6 +8,7 @@
 * 전자우편: abuse@catswords.net
 * 유선전화: 070-7735-3586
 * 팩스: 032-232-7628
+* [Microsoft Teams에서 Catswords (캐츠워즈) 가입](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
 * 본 서버는 신고 기능이 활성화되어 있습니다.
 
 아래는 담당자 정보 및 법적 표시 사항입니다.
@@ -75,4 +75,4 @@
 
 본 서버에 가입하는 경우 해당 규칙에 동의하는 것으로 간주됩니다.
 
-이 규칙은 2024년 06월 12일 09:00 UTC+9(KST)부터 적용됩니다.
+이 규칙은 2024년 07월 15일 09:00 UTC+9(KST)부터 적용됩니다.
