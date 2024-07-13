@@ -6,7 +6,7 @@ Catswords Colosseum (hereinafter referred to as "instance") users, please refer 
 * Email: abuse@catswords.net
 * Phone: +82-70-7735-3586
 * Fax: +82-32-232-7628
-* [Join Catswords on Microsoft Teams](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
+* [Join Catswords on Microsoft Teams (teams.live.com)](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
 * This server has the abuse reporting feature enabled.
 
 Below is the contact information and legal notice for the responsible party:
@@ -30,10 +30,10 @@ The regulations regarding access to personal information are as follows: Catswor
 * Cooperation requests from relevant agencies and organizations related to urgent matters recognized by social norms (emergency medical care, missing persons, violent crimes, natural disasters, personnel accidents, distress, rescue, relief, evacuation, etc.). However, access may be denied based on internal review or expert advice.
 * Receipt of a content certification. However, access may be denied based on internal review or expert advice.
 * Processing the prize delivery process for users who have won events
-* Resolution of issues arising from [Mastodon](https://github.com/mastodon/mastodon) (ActivityPub), [ejabberd](https://github.com/processone/ejabberd) (XMPP) updates
+* Resolution of issues arising from [Mastodon (github.com)](https://github.com/mastodon/mastodon) (ActivityPub), [ejabberd (github.com)](https://github.com/processone/ejabberd) (XMPP) updates
 * Recovery operations due to the loss of equipment or data necessary for operation
 * Implementation of user protection measures
-* Receipt of personal information access claims through the [Personal Information Portal](https://www.privacy.go.kr) operated by the Ministry of the Interior and Safety of South Korea
+* Receipt of personal information access claims through the [Personal Information Portal (www.privacy.go.kr)](https://www.privacy.go.kr) operated by the Ministry of the Interior and Safety of South Korea
 * Received a cooperation request regarding RTBF (Right To Be Forgotten).
   - If you are a Republic of Korea citizen under the age of 30, you can request the deletion of posts containing personal information from your childhood or adolescence (under 19 years old) to relevant agencies.
   - If you are a Republic of Korea citizen over the age of 19, you can claim the "self-post access exclusion right" to prohibit others from accessing posts you have written to relevant agencies.
