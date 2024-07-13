@@ -1,5 +1,4 @@
 ## 개인정보보호정책
-
 [English version available](site_terms_EN.md)
 
 캐츠워즈 콜로세움(이하 '서버') 이용 중 문제 발생 시 아래 긴급 연락처를 살펴봐주시기 바랍니다.
@@ -7,7 +6,7 @@
 * 전자우편: abuse@catswords.net
 * 유선전화: 070-7735-3586
 * 팩스: 032-232-7628
-* [Microsoft Teams에서 Catswords (캐츠워즈) 가입](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
+* [Microsoft Teams에서 Catswords (캐츠워즈) 가입 (teams.live.com)](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
 * 본 서버는 신고 기능이 활성화되어 있습니다.
 
 아래는 담당자 정보 및 법적 표시 사항입니다.
@@ -31,10 +30,10 @@
 * 사회 통념상 인정되는 긴급한 사안(응급의료, 실종, 강력범죄, 자연재해, 인사사고, 조난, 구조, 구호, 구난, 긴급피난 등)에 따른 유관 기관 및 단체의 협조 요청, 단, 내부 검토 또는 외부 전문가의 자문 결과에 따라 열람을 거부할 수 있음.
 * 내용증명을 수령함. 단, 내부 검토 또는 외부 전문가의 자문 결과에 따라 열람을 거부할 수 있음.
 * 이용자가 이벤트에 당첨되어 경품 발송 절차를 진행
-* [Mastodon](https://github.com/mastodon/mastodon) (ActivityPub), [ejabberd](https://github.com/processone/ejabberd) (XMPP) 업데이트 과정에서 발생하는 문제 해결
+* [Mastodon (github.com)](https://github.com/mastodon/mastodon) (ActivityPub), [ejabberd (github.com)](https://github.com/processone/ejabberd) (XMPP) 업데이트 과정에서 발생하는 문제 해결
 * 운영에 필요한 장비 또는 데이터의 손실로 인한 복구 작업
 * 이용자 보호조치 절차 진행
-* 대한민국 행정안전부가 운영하는 [개인정보 포털](https://www.privacy.go.kr)에 개인정보 열람청구가 접수됨.
+* 대한민국 행정안전부가 운영하는 [개인정보 포털 (www.privacy.go.kr)](https://www.privacy.go.kr)에 개인정보 열람청구가 접수됨.
 * RTBF(Right To Be Forgotten) 관련 협조 요청을 받음.
   - 만 30세 미만의 대한민국 국민인 경우, 유관기관에 본인의 아동청소년기(만 19세 미만)의 개인정보를 포함하는 게시물의 삭제를 요청할 수 있음.
   - 만 19세 이상의 대한민국 국민인 경우, 유관기관에 본인이 작성한 게시물에 대한 타인의 접근을 금지하는 "자기게시물 접근배제요청권"을 청구할 수 있음.
