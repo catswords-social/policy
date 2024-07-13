@@ -8,7 +8,7 @@ In case of issues during the use of 'Catswords Colosseum,' please refer to the e
 * Email: abuse@catswords.net
 * Phone: +82-70-7735-3586
 * Fax: +82-32-232-7628
-* [Join Catswords on Microsoft Teams](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
+* [Join Catswords on Microsoft Teams (teams.live.com)](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
 * This server has the abuse reporting feature enabled.
 
 Below are the contact details and legal information:
@@ -44,7 +44,7 @@ Examples of cases subject to direct administrator action:
 * Suspicion of accounts created by hackers or hacker organizations seeking financial support.
 * Report of the use of copyrighted material beyond the scope allowed by prior public disclosure of the copyright.
 
-The copyright of works produced on this server follows the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless indicated otherwise. License compliance is expected from all entities (e.g., humans, natural language processing, image processing machines) with learning capabilities, and if the entity intending to use the work is not a natural person, it must sufficiently demonstrate that the natural person representing the entity can comply with the license. Failure to do so may lead to the user safety measures mentioned earlier.
+The copyright of works produced on this server follows the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0) (creativecommons.org)](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless indicated otherwise. License compliance is expected from all entities (e.g., humans, natural language processing, image processing machines) with learning capabilities, and if the entity intending to use the work is not a natural person, it must sufficiently demonstrate that the natural person representing the entity can comply with the license. Failure to do so may lead to the user safety measures mentioned earlier.
 
 For situations where the administrator's normal functioning is not possible, the server designates a legal representative with technical authority (hereinafter 'technical representative').
 
