@@ -66,8 +66,11 @@ In the event of a similar situation, the right transfer to the technical represe
 * Scope of Technical Representative's Rights: All physical assets (servers, PCs, etc.), all electronic forms of inanimate objects (software, databases, files, etc.), all terms of cloud service contracts necessary to operate this server
 * Limits of Technical Representative's Rights: Technical representative's rights occur (are acquired) only in situations where the administrator's normal functioning is not possible.
 
-If an unplanned connection failure persists for more than 3 hours, compensation for connection issues can be requested through the emergency contact. However, evidence must be submitted that proves an attempt to connect during the time of the connection failure. The range and compensation depend on the cause, scale of the failure, and the number of affected users, and the administrator makes the final decision.
+This server has prepared the following countermeasures for potential technical issues:
+
+* If an unannounced access disruption lasts for more than three hours due to unforeseen causes, you can apply for compensation through the emergency contact. However, you must provide evidence that you attempted to access the server during the time of the disruption. The scope and amount of compensation will be determined by the administrator, considering the cause, scale, and number of affected users.
+* If technical issues (such as spam, protocol errors, etc.) arise with a specific server federation, we will suspend the federation with that server for up to 72 hours (3 days). To avoid operational conflicts, the suspension will not exceed 72 hours (3 days). If the technical issue is not resolved after 72 hours (3 days), we will announce the situation and resume the federation while accommodating the issue (attempting to resolve it on our server without blocking the federation).
 
 By joining this server, it is assumed that you agree to these rules.
 
-These rules are effective from July 15, 2024, 09:00 UTC+9 (KST).
+These rules are effective from August 19, 2024, 09:00 UTC+9 (KST).
