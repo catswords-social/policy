@@ -16,7 +16,7 @@ Below are the contact details and legal information:
 * Operator: Catswords Research (catswords.com)
 * Personal Information Officer: Namhyeon Go (+82-070-7735-3586, gnh1201@gmail.com)
 * Host Server Location: (31248) 89-28, Daheung 2-gil, Seongnam-myeon, Cheonan-si, Chungcheongnam-do, Republic of Korea (KT Cheonan CDC, 266-5, Daheung-ri)
-* Mailing Address: (21582) Mailbox 35-16, 502, 11, Sunsuchongongwon-ro-23-beongil (23rd street of Seonsuchon Park Road), Incheon, Republic of Korea (1542-1, Guwol-dong)
+* Mailing Address: (21582) Suite 35-16, 502, 11, Sunsuchongongwon-ro-23-beongil, Incheon, Republic of Korea (1542-1, Guwol-dong)
 
 Please refer to [this link](site_terms.md) for the privacy policy. Information on accessibility can be found [here](accessibility.md).
 
