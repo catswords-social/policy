@@ -1,5 +1,5 @@
 # policy.catswords.social
-Terms and policies - catswords.social
+Here are documents to help you use Catswords Colosseum (catswords.social):
 
 * [site_extended_description.md](site_extended_description.md)
 * [site_terms.md](site_terms.md)
