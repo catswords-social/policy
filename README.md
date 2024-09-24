@@ -10,5 +10,6 @@ Here are documents to help you use Catswords Colosseum (catswords.social):
 * [dmca.md](dmca.md)
 * [stock_images.md](stock_images.md)
 * [pgpkey.md](pgpkey.md)
+* [xmpp.md](xmpp.md)
 
 Website: https://catswords.social
