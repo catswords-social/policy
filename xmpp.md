@@ -14,8 +14,8 @@ If you have any questions, feel free to add me as an XMPP contact and reach out 
 - gnh1201@xmpp.catswords.net
 
 ### Recommended Clients
-- [Conversations](https://conversations.im/) (Android)
-- [aTalk](https://github.com/cmeng-git/atalk-android) (Android)
+- [Conversations](https://conversations.im/) (Android, Available on [F-Droid](https://f-droid.org/ko/packages/eu.siacs.conversations/), [Google Play Store](https://play.google.com/store/apps/details?id=eu.siacs.conversations))
+- [aTalk](https://github.com/cmeng-git/atalk-android) (Android, Available on [F-Droid](https://f-droid.org/ko/packages/org.atalk.android/))
 - [Gajim](https://gajim.org/) (Windows, Linux, MacOS)
 
 ## XMPP (메신저 서비스)
@@ -34,6 +34,6 @@ XMPP (Extensible Messaging and Presence Protocol)는 주로 즉각적인 메시�
 - gnh1201@xmpp.catswords.net
 
 ### 추천 클라이언트
-- [Conversations](https://conversations.im/) (Android)
-- [aTalk](https://github.com/cmeng-git/atalk-android) (Android)
-- [Gajim](https://gajim.org/) (Windows, Linux, MacOS)
+- [Conversations](https://conversations.im/) (안드로이드 지원, [F-Droid](https://f-droid.org/ko/packages/eu.siacs.conversations/), [Google Play Store](https://play.google.com/store/apps/details?id=eu.siacs.conversations)에서 설치 가능)
+- [aTalk](https://github.com/cmeng-git/atalk-android) (안드로이드 지원, [F-Droid](https://f-droid.org/ko/packages/org.atalk.android/)에서 설치 가능)
+- [Gajim](https://gajim.org/) (윈도우즈, 리눅스, 맥OS 지원)
