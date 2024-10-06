@@ -33,7 +33,7 @@ XMPP (Extensible Messaging and Presence Protocol)는 주로 즉각적인 메시�
 궁금한 점이 있다면 XMPP 친구를 추가하고 언제든지 연락주세요.
 
 - [gnh1201@xmpp.catswords.net](xmpp:gnh1201@xmpp.catswords.net)
-- [catswords@conference.xmpp.catswords.net](xmpp:catswords@conference.xmpp.catswords.net?join) (Public Group Chat)
+- [catswords@conference.xmpp.catswords.net](xmpp:catswords@conference.xmpp.catswords.net?join) (공개 그룹채팅방)
 
 ### 추천 클라이언트
 - [Conversations](https://conversations.im/) (안드로이드 지원, [F-Droid](https://f-droid.org/ko/packages/eu.siacs.conversations/), [Google Play Store](https://play.google.com/store/apps/details?id=eu.siacs.conversations)에서 설치 가능)
