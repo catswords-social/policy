@@ -11,7 +11,8 @@ Catswords Colosseum offers a messenger service based on the XMPP protocol and en
 ### What is the XMPP account of the administrator?
 If you have any questions, feel free to add me as an XMPP contact and reach out anytime.
 
-- gnh1201@xmpp.catswords.net
+- [gnh1201@xmpp.catswords.net](xmpp:gnh1201@xmpp.catswords.net)
+- [catswords@conference.xmpp.catswords.net](xmpp:catswords@conference.xmpp.catswords.net?join) (Public Group Chat)
 
 ### Recommended Clients
 - [Conversations](https://conversations.im/) (Android, Available on [F-Droid](https://f-droid.org/ko/packages/eu.siacs.conversations/), [Google Play Store](https://play.google.com/store/apps/details?id=eu.siacs.conversations))
