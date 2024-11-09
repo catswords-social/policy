@@ -11,13 +11,14 @@ Catswords Colosseum offers a messenger service based on the XMPP protocol and en
 ### What is the XMPP account of the administrator?
 If you have any questions, feel free to add me as an XMPP contact and reach out anytime.
 
-- [gnh1201@xmpp.catswords.net](xmpp:gnh1201@xmpp.catswords.net)
-- [catswords@conference.xmpp.catswords.net](xmpp:catswords@conference.xmpp.catswords.net?join) (Public Group Chat)
+- [gnh1201@omemo.id](xmpp:gnh1201@omemo.id)
+- [catswords@conference.omemo.id](xmpp:catswords@conference.omemo.id?join) (Public Group Chat)
 
 ### Recommended Clients
 - [Conversations](https://conversations.im/) (Android, Available on [F-Droid](https://f-droid.org/ko/packages/eu.siacs.conversations/), [Google Play Store](https://play.google.com/store/apps/details?id=eu.siacs.conversations))
 - [aTalk](https://github.com/cmeng-git/atalk-android) (Android, Available on [F-Droid](https://f-droid.org/ko/packages/org.atalk.android/))
 - [Gajim](https://gajim.org/) (Windows, Linux, MacOS)
+- [ChatSecure](https://chatsecure.org/) (iPhone)
 
 ## XMPP (메신저 서비스)
 
@@ -25,17 +26,18 @@ If you have any questions, feel free to add me as an XMPP contact and reach out 
 XMPP (Extensible Messaging and Presence Protocol)는 주로 즉각적인 메시징, 상태 정보, 연락처 목록 관리를 위해 설계된 개방형 통신 프로토콜입니다. 이를 통해 다양한 플랫폼 간에 사용자 간의 분산형, 안전하고 실시간 통신을 가능하게 합니다. XMPP는 XML 기반으로 구축되어 있으며, 두 개 이상의 엔티티 간의 데이터 전송을 허용하여 메시징, 상태 업데이트 및 협업을 포함한 다양한 애플리케이션에 유연하게 활용될 수 있습니다.
 
 ### 어떻게 신청하나요?
-캐츠워즈 콜로세움은 XMPP 프로토콜 및 종단 간 암호화(예: [OMEMO](https://conversations.im/omemo/))를 기반으로 한 메신저 서비스를 제공합니다. 계정은 수동으로 발급되므로 이메일로 신청해주시기 바랍니다.
+캐츠워즈 콜로세움은 XMPP 프로토콜 및 종단 간 암호화([OMEMO](https://conversations.im/omemo/) 등)를 기반으로 한 메신저 서비스를 제공합니다. 계정은 수동으로 발급되므로 이메일로 신청해주시기 바랍니다.
 
 - abuse@catswords.net
 
 ### 운영자의 XMPP 계정은 무엇인가요?
 궁금한 점이 있다면 XMPP 친구를 추가하고 언제든지 연락주세요.
 
-- [gnh1201@xmpp.catswords.net](xmpp:gnh1201@xmpp.catswords.net)
-- [catswords@conference.xmpp.catswords.net](xmpp:catswords@conference.xmpp.catswords.net?join) (공개 그룹채팅방)
+- [gnh1201@omemo.id](xmpp:gnh1201@omemo.id)
+- [catswords@conference.omemo.id](xmpp:catswords@conference.omemo.id?join) (공개 그룹채팅방)
 
 ### 추천 클라이언트
 - [Conversations](https://conversations.im/) (안드로이드 지원, [F-Droid](https://f-droid.org/ko/packages/eu.siacs.conversations/), [Google Play Store](https://play.google.com/store/apps/details?id=eu.siacs.conversations)에서 설치 가능)
 - [aTalk](https://github.com/cmeng-git/atalk-android) (안드로이드 지원, [F-Droid](https://f-droid.org/ko/packages/org.atalk.android/)에서 설치 가능)
 - [Gajim](https://gajim.org/) (윈도우즈, 리눅스, 맥OS 지원)
+- [ChatSecure](https://chatsecure.org/) (아이폰 지원)
