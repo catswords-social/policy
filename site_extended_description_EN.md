@@ -9,7 +9,7 @@ In case of issues during the use of 'Catswords Colosseum,' please refer to the e
 * Phone: +82-70-7735-3586
 * Fax: +82-32-232-7628
 * [Join Catswords OSS on Microsoft Teams (teams.live.com)](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
-* [Join Catswords OSS #catswords-social on Discord (discord.gg)](https://discord.gg/Q9MWa6bjGP)
+* [Join Catswords OSS #activitypub on Discord (discord.gg)](https://discord.gg/Q9MWa6bjGP)
 * This server has the abuse reporting feature enabled.
 
 Below are the contact details and legal information:

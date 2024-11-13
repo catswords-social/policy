@@ -9,7 +9,7 @@
 * 유선전화: 070-7735-3586
 * 팩스: 032-232-7628
 * [Microsoft Teams에서 Catswords OSS 가입 (teams.live.com)](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
-* [Discord에서 Catswords OSS #catswords-social 가입 (discord.gg)](https://discord.gg/Q9MWa6bjGP)
+* [Discord에서 Catswords OSS #activitypub 가입 (discord.gg)](https://discord.gg/Q9MWa6bjGP)
 * 본 서버는 신고 기능이 활성화되어 있습니다.
 
 아래는 담당자 정보 및 법적 표시 사항입니다.
