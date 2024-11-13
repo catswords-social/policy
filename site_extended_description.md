@@ -8,7 +8,8 @@
 * 전자우편: abuse@catswords.net
 * 유선전화: 070-7735-3586
 * 팩스: 032-232-7628
-* [Microsoft Teams에서 Catswords (캐츠워즈) 가입 (teams.live.com)](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
+* [Microsoft Teams에서 Catswords OSS 가입 (teams.live.com)](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
+* [Discord에서 Catswords OSS #catswords-social 가입 (discord.gg)](https://discord.gg/Q9MWa6bjGP)
 * 본 서버는 신고 기능이 활성화되어 있습니다.
 
 아래는 담당자 정보 및 법적 표시 사항입니다.
@@ -78,4 +79,4 @@
 
 본 서버에 가입하는 경우 해당 규칙에 동의하는 것으로 간주됩니다.
 
-이 규칙은 2024년 08월 19일 09:00 UTC+9(KST)부터 적용됩니다.
+이 규칙은 2024년 11월 14일 09:00 UTC+9(KST)부터 적용됩니다.
