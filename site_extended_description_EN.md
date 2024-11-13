@@ -8,7 +8,8 @@ In case of issues during the use of 'Catswords Colosseum,' please refer to the e
 * Email: abuse@catswords.net
 * Phone: +82-70-7735-3586
 * Fax: +82-32-232-7628
-* [Join Catswords on Microsoft Teams (teams.live.com)](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
+* [Join Catswords OSS on Microsoft Teams (teams.live.com)](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
+* [Join Catswords OSS #catswords-social on Discord (discord.gg)](https://discord.gg/Q9MWa6bjGP)
 * This server has the abuse reporting feature enabled.
 
 Below are the contact details and legal information:
@@ -73,4 +74,4 @@ This server has prepared the following countermeasures for potential technical i
 
 By joining this server, it is assumed that you agree to these rules.
 
-These rules are effective from August 19, 2024, 09:00 UTC+9 (KST).
+These rules are effective from November 14, 2024, 09:00 UTC+9 (KST).
