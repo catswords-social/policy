@@ -44,7 +44,7 @@
 * 개인 또는 집단에게 정신적 또는 신체적 상해를 입힐 목적으로 본 서버를 이용함. 예: 뇌전증 환자가 열람했을 때 광과민성 간질 발작을 유발할 수 있는 콘텐츠를 게시함.
 * 금전적 지원을 받는 해커 또는 해커 조직이 생성한 계정으로 의심됨.
 * 저작물에 대하여 사전에 공표된 저작권의 허용 범위를 벗어나는 저작물의 사용이 신고됨.
-* 이용자의 연령이 대한민국 민법상 미성년자로 추정되는 정황이 있음. 이 경우 확인을 위해 법정대리인 동의 여부를 포함하는 "개인정보 수집 및 이용 동의서"( :pencil:[DOCX](https://ics.catswords.net/privacy_agreement_form_ko.docx), :pencil:[HWP](https://ics.catswords.net/privacy_agreement_form_ko.hwp) )를 이용자와 법정대리인 각 1부씩 제출하여야 함.
+* 이용자의 연령이 대한민국 민법상 미성년자로 추정되는 정황이 있음. 이 경우 확인을 위해 [법정대리인 동의 여부를 포함하는 "개인정보 수집 및 이용 동의서"](https://ics.catswords.net/privacy_agreement_form_ko.docx)를 이용자와 법정대리인 각 1부씩 관리자에게 제출하여야 함.
 
 ### 저작권
 본 서버에서 발생하는 저작물의 저작권은 별도의 저작권 표기가 없는 경우 [크리에이티브 커먼즈 저작자표시-비영리-동일조건변경허락 4.0 국제 라이선스 (CC BY-NC-SA 4.0) (creativecommons.org)](https://creativecommons.org/licenses/by-nc-sa/4.0/)를 따릅니다.
