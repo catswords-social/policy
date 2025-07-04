@@ -4,8 +4,6 @@
 캐츠워즈 콜로세움(이하 '서버') 이용 중 문제 발생 시 아래 긴급 연락처를 살펴봐주시기 바랍니다.
 
 * 전자우편: abuse@catswords.net
-* 유선전화: 070-7735-3586
-* 팩스: 032-232-7628
 * [Microsoft Teams에서 Catswords OSS 가입 (teams.live.com)](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
 * [Discord에서 Catswords OSS #activitypub 가입 (discord.gg)](https://discord.gg/Q9MWa6bjGP)
 * 본 서버는 신고 기능이 활성화되어 있습니다.
@@ -13,9 +11,8 @@
 아래는 담당자 정보 및 법적 표시 사항입니다.
 
 * 운영자: 캐츠워즈리서치 (catswords.com)
-* 개인정보 보호책임자: 고남현 (070-7735-3586, gnh1201@gmail.com)
-* 호스트 서버 소재지: (31248) 충청남도 천안시 동남구 성남면 대흥2길 89-28 (대흥리 266-5) KT천안CDC
-* 우편 보내실 곳: (21582) 인천광역시 남동구 선수촌공원로23번길 11 502호 (구월동 1542-1) 내부 제35-16호
+* 개인정보 보호책임자: 고남현 (gnh1201@catswords.re.kr)
+* 우편 보내실 곳: (63134) 제주특별자치도 제주시 신대로 145, 맨써빌딩 6층 1-18호
 
 처리하는 개인정보의 항목은 다음과 같습니다.
 
