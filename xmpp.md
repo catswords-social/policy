@@ -4,7 +4,7 @@
 XMPP (Extensible Messaging and Presence Protocol) is an open communication protocol primarily designed for instant messaging, presence information, and contact list maintenance. It enables decentralized, secure, and real-time communication between users across various platforms. XMPP is built on XML and allows the transmission of data between two or more entities, making it flexible for a wide range of applications, including messaging, presence updates, and collaboration.
 
 ### How do I apply?
-Catswords Colosseum offers a messenger service based on the XMPP protocol with end-to-end encryption (e.g., [OMEMO](https://conversations.im/omemo/)). Accounts are issued manually, so please apply by sending an email or submitting the form.
+Catswords Colosseum offers a messenger service based on the XMPP protocol with end-to-end encryption (e.g., [OMEMO](https://conversations.im/omemo/)). Accounts are issued manually, so please apply by sending an email or submitting the form (Google Forms).
 
 * oss@catswords.net
 * [Messenger Registration - omemo.id (forms.gle)](https://forms.gle/dPyE1fTm3WFVygN48)
