@@ -19,7 +19,8 @@ If you have any questions, feel free to add me as an XMPP contact and reach out 
 - [Conversations](https://conversations.im/) (Recommended) - Android, Available on [F-Droid](https://f-droid.org/ko/packages/eu.siacs.conversations/) (Recommended), [Google Play Store](https://play.google.com/store/apps/details?id=eu.siacs.conversations)
 - [aTalk](https://github.com/cmeng-git/atalk-android) - Android, Available on [F-Droid](https://f-droid.org/ko/packages/org.atalk.android/)
 - [Gajim](https://gajim.org/) - Windows, Linux, MacOS (Desktop)
-- [ChatSecure](https://chatsecure.org/) - iOS (Mobile)
+- [Monal](https://apps.apple.com/us/app/monal-xmpp-chat/id317711500) (Recommended) - iOS (Mobile)
+- [ChatSecure](https://apps.apple.com/us/app/chatsecure-messenger/id464200063) - iOS (Mobile)
 
 ## XMPP (메신저 서비스)
 
