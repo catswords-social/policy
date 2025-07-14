@@ -16,10 +16,10 @@ If you have any questions, feel free to add me as an XMPP contact and reach out 
 - [catswords@conference.omemo.id](xmpp:catswords@conference.omemo.id?join) (Public Group Chat)
 
 ### Recommended Clients
-- [Conversations](https://conversations.im/) (Recommended) - Android, Available on [F-Droid](https://f-droid.org/ko/packages/eu.siacs.conversations/) (Recommended), [Google Play Store](https://play.google.com/store/apps/details?id=eu.siacs.conversations)
+- [Conversations](https://conversations.im/) ***(Recommended)*** - Android, Available on [F-Droid](https://f-droid.org/ko/packages/eu.siacs.conversations/) (Recommended), [Google Play Store](https://play.google.com/store/apps/details?id=eu.siacs.conversations)
 - [aTalk](https://github.com/cmeng-git/atalk-android) - Android, Available on [F-Droid](https://f-droid.org/ko/packages/org.atalk.android/)
 - [Gajim](https://gajim.org/) - Windows, Linux, MacOS (Desktop)
-- [Monal](https://apps.apple.com/us/app/monal-xmpp-chat/id317711500) (Recommended) - iOS (Mobile)
+- [Monal](https://apps.apple.com/us/app/monal-xmpp-chat/id317711500) ***(Recommended)*** - iOS (Mobile)
 - [ChatSecure](https://apps.apple.com/us/app/chatsecure-messenger/id464200063) - iOS (Mobile)
 
 ## XMPP (메신저 서비스)
@@ -40,7 +40,8 @@ XMPP (Extensible Messaging and Presence Protocol)는 주로 즉각적인 메시�
 - [catswords@conference.omemo.id](xmpp:catswords@conference.omemo.id?join) (공개 그룹채팅방)
 
 ### 추천 클라이언트
-- [Conversations](https://conversations.im/) - 안드로이드, [F-Droid](https://f-droid.org/ko/packages/eu.siacs.conversations/) (추천), [Google Play Store](https://play.google.com/store/apps/details?id=eu.siacs.conversations)에서 설치 가능
+- [Conversations](https://conversations.im/) ***(추천)*** - 안드로이드, [F-Droid](https://f-droid.org/ko/packages/eu.siacs.conversations/) (추천), [Google Play Store](https://play.google.com/store/apps/details?id=eu.siacs.conversations)에서 설치 가능
 - [aTalk](https://github.com/cmeng-git/atalk-android) - 안드로이드, [F-Droid](https://f-droid.org/ko/packages/org.atalk.android/)에서 설치 가능
 - [Gajim](https://gajim.org/) - 윈도우즈, 리눅스, 맥OS (데스크탑) 지원
-- [ChatSecure](https://chatsecure.org/) - iOS (모바일) 지원
+- [Monal](https://apps.apple.com/us/app/monal-xmpp-chat/id317711500) ***(추천)*** - iOS (모바일) 지원
+- [ChatSecure](https://apps.apple.com/us/app/chatsecure-messenger/id464200063) - iOS (모바일) 지원
