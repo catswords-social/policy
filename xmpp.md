@@ -39,7 +39,7 @@ XMPP (Extensible Messaging and Presence Protocol)는 주로 즉각적인 메시�
 - [catswords@conference.omemo.id](xmpp:catswords@conference.omemo.id?join) (공개 그룹채팅방)
 
 ### 추천 클라이언트
-- [Conversations](https://conversations.im/) - 안드로이드, [F-Droid](https://f-droid.org/ko/packages/eu.siacs.conversations/) (추천), [Google Play Store](https://play.google.com/store/apps/details?id=eu.siacs.conversations)에서 설치 가능)
+- [Conversations](https://conversations.im/) - 안드로이드, [F-Droid](https://f-droid.org/ko/packages/eu.siacs.conversations/) (추천), [Google Play Store](https://play.google.com/store/apps/details?id=eu.siacs.conversations)에서 설치 가능
 - [aTalk](https://github.com/cmeng-git/atalk-android) - 안드로이드, [F-Droid](https://f-droid.org/ko/packages/org.atalk.android/)에서 설치 가능
 - [Gajim](https://gajim.org/) - 윈도우즈, 리눅스, 맥OS (데스크탑) 지원
 - [ChatSecure](https://chatsecure.org/) - iOS (모바일) 지원
