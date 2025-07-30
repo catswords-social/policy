@@ -62,7 +62,7 @@ For situations where the administrator's normal functioning is not possible, the
 
 In the event of a similar situation, the right transfer to the technical representative prevails over the administrator. If the technical representative does not exercise the right within 5 days of being notified (or from the day a third party informs the technical representative in the case of the representative being unlocatable), the right automatically transfers to the legal representative.
 
-* Technical Representative: Kim Junyoung (+82-0507-954-5188, juni65423@gmail.com)
+* Technical Representative: Park Juyeong (ioion@catswords.re.kr)
 * Scope of Technical Representative's Rights: All physical assets (servers, PCs, etc.), all electronic forms of inanimate objects (software, databases, files, etc.), all terms of cloud service contracts necessary to operate this server
 * Limits of Technical Representative's Rights: Technical representative's rights occur (are acquired) only in situations where the administrator's normal functioning is not possible.
 
