@@ -13,9 +13,8 @@ Catswords Colosseum (hereinafter referred to as "instance") users, please refer 
 Below is the contact information and legal notice for the responsible party:
 
 * Operator: Catswords Research (catswords.com)
-* Personal Information Officer: Namhyeon Go (+82-070-7735-3586, gnh1201@gmail.com)
-* Host Server Location: (31248) 89-28, Daheung 2-gil, Seongnam-myeon, Cheonan-si, Chungcheongnam-do, Republic of Korea (KT Cheonan CDC, 266-5, Daheung-ri)
-* Mailing Address: (21582) Suite 35-16, 502, 11, Sunsuchongongwon-ro-23-beongil, Incheon, Republic of Korea (1542-1, Guwol-dong)
+* Personal Information Officer: Namhyeon Go (gnh1201@catswords.re.kr)
+* Mailing Address: (63134) 6F-1-18, 145, Sindae-ro, Jeju-si, Jeju-do, Republic of Korea
 
 The collected personal information includes the following:
 
@@ -79,4 +78,4 @@ If you believe that this instance cannot sufficiently protect your personal info
 
 By joining this instance, you are considered to agree to this privacy policy.
 
-This privacy policy is effective from July 15, 2024, 09:00 UTC+9 (KST).
+This privacy policy is effective from July 31, 2025, 09:00 UTC+9 (KST).
